@@ -1,0 +1,850 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "55e8bb80-206a-472b-ac89-6555b6c3d282")
+	(paper "A2")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 300.99 171.45) (xy 322.58 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc59003d-8a05-4f2a-b8ca-5341fbc386ea")
+	)
+	(sheet
+		(at 24.13 96.52)
+		(size 38.1 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "10a7f033-abc9-48da-a7a0-2d26902a94e5")
+		(property "Sheetname" "Memory and Control"
+			(at 24.13 95.8084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "barebones_mem.kicad_sch"
+			(at 24.13 140.2846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 137.16)
+		(size 128.27 217.17)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4592b564-4714-4f7f-a9af-f6be00056616")
+		(property "Sheetname" "Peripheral IO Connectors"
+			(at 172.72 136.4484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "barebones_io.kicad_sch"
+			(at 172.72 354.9146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BATT_CHARGER_BQ25713A" input
+			(at 300.99 144.78 0)
+			(uuid "a5bf8a61-ae70-46fb-be9d-e82cccd1e865")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO3_B3_U" input
+			(at 300.99 151.13 0)
+			(uuid "aaa10973-17e3-47dd-8ab3-83672e8c9f67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO3_B4_U" input
+			(at 300.99 156.21 0)
+			(uuid "858571d1-dc67-40fc-ad40-09235996f2a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C2_SCL_M4" input
+			(at 300.99 162.56 0)
+			(uuid "026c6e56-6e41-4719-a90c-0a723399a112")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C2_SDA_M4" input
+			(at 300.99 166.37 0)
+			(uuid "adcb80bd-2676-4028-a1c3-b849733751bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C4_SCL_M3" bidirectional
+			(at 300.99 171.45 0)
+			(uuid "63e2caeb-b6e2-4394-90b8-cd27395f6f12")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C4_SDA_M3" input
+			(at 300.99 175.26 0)
+			(uuid "cd20f716-1aff-4a04-9d48-5aa88eae59a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PCIE20_0_REFCLKN" input
+			(at 300.99 177.8 0)
+			(uuid "cf5bfbdc-a116-4609-ae63-e00b8bf71bca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PCIE20_0_REFCLKP" input
+			(at 300.99 140.97 0)
+			(uuid "6b34ddcd-c777-4ca4-a2b6-a773b448c643")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PCIE20_0_RXN" input
+			(at 172.72 143.51 180)
+			(uuid "6640f71d-9b44-496e-98e5-a5a8a878dd57")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_0_RXP" input
+			(at 172.72 146.05 180)
+			(uuid "96d44868-5711-4491-a7bd-9223323ad0bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_0_TXN" input
+			(at 172.72 148.59 180)
+			(uuid "1be841e7-8c80-400f-974b-9fdf613537fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE20_0_TXP" input
+			(at 172.72 151.13 180)
+			(uuid "1cb50c83-10aa-4224-a63b-12df0d9b43dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30X1_0_PERSTN_M0" input
+			(at 172.72 153.67 180)
+			(uuid "c30429b3-3692-4039-8a56-77839d20e3d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30X1_0_WAKEN_M0" input
+			(at 172.72 156.21 180)
+			(uuid "653f1154-951f-4d57-8872-6def310d1c71")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30X4_CLKREQN_M0" input
+			(at 172.72 160.02 180)
+			(uuid "941439d2-bbea-455a-bae3-1782a0645985")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30X4_PERSTN_M0" input
+			(at 172.72 162.56 180)
+			(uuid "895e8bd9-1140-42dc-93bb-6ce22271435a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_REF_CLKN" input
+			(at 172.72 166.37 180)
+			(uuid "6467a6dc-5149-495b-9fea-ede867bca0f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_REF_CLKP" input
+			(at 172.72 170.18 180)
+			(uuid "4e544f26-4945-4b7d-9fde-2baa3d28a668")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_RX0N" input
+			(at 172.72 173.99 180)
+			(uuid "229a7602-d085-48f6-b869-b5fb6b024f17")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_RX0P" input
+			(at 172.72 176.53 180)
+			(uuid "6a425cae-9eb2-42c5-9593-c14273071588")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_RX1P" input
+			(at 172.72 180.34 180)
+			(uuid "7826acb4-ee4b-4fa6-bc9c-3d80d83304d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_TX0N" input
+			(at 172.72 184.15 180)
+			(uuid "1ce63265-b1fc-4cd3-8e39-91dcde8bb0cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_TX0P" input
+			(at 172.72 187.96 180)
+			(uuid "0a48042c-b616-4014-a57a-b988d01b98a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_TX1N" input
+			(at 172.72 190.5 180)
+			(uuid "48ac1eba-71f9-4ce8-82e4-da33d48c8ac1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT0_TX1P" input
+			(at 172.72 193.04 180)
+			(uuid "81096a0d-cafa-485f-8379-2e3c929b5b6c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_RX0N" input
+			(at 172.72 194.31 180)
+			(uuid "febdd341-6381-4e08-bfbc-4f4bd927f0ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_RX0P" input
+			(at 172.72 200.66 180)
+			(uuid "e1f1a4f8-4fdd-4692-b1ae-a158695da65e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_RX1N" input
+			(at 172.72 207.01 180)
+			(uuid "8d887e66-d6a0-4933-9d94-1d65018a1510")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_RX1P" input
+			(at 172.72 213.36 180)
+			(uuid "6bd7d0a3-2b21-4246-bba2-f3cd89ce61f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_TX0N" input
+			(at 172.72 220.98 180)
+			(uuid "b5bf21f8-a557-4602-a079-ee2390b93ae7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_TX0P" input
+			(at 172.72 229.87 180)
+			(uuid "2d7bc4cb-9a7f-4a19-9f8e-7852ec4ea28d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_TX1N" input
+			(at 172.72 234.95 180)
+			(uuid "b049ad63-0da6-4130-b504-d329697d0652")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PCIE30_PORT1_TX1P" input
+			(at 172.72 240.03 180)
+			(uuid "8397db37-d7de-41a3-a53c-8bc79b8792c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_CLK" input
+			(at 172.72 246.38 180)
+			(uuid "8551c502-6c40-467b-9af4-353417f7e94d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_CMD" input
+			(at 172.72 251.46 180)
+			(uuid "5d2c5a38-1e29-4352-b528-aee96cf085b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_DAT0" input
+			(at 172.72 256.54 180)
+			(uuid "ae0845dd-5bee-4890-ae87-d9b483d97c84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_DAT1" input
+			(at 172.72 261.62 180)
+			(uuid "81c58db6-0d54-4580-8028-956d3239f775")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_DAT2" input
+			(at 172.72 265.43 180)
+			(uuid "8811f6ef-ca3f-4f18-8697-b4513ce4c0da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_DAT3" input
+			(at 172.72 271.78 180)
+			(uuid "7d3a790a-2c89-483a-98b1-495dface2ecb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD_DETECT" input
+			(at 172.72 278.13 180)
+			(uuid "3cea0b63-3110-4c89-9cfc-ce2e821f5fbf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SBU1" input
+			(at 172.72 283.21 180)
+			(uuid "e302fbb5-4877-467f-9f90-f9d6e6c2c6ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSRX1N{slash}DP0_TX0N" input
+			(at 172.72 289.56 180)
+			(uuid "dbafe85e-96e6-4c9e-8f91-8c05f6149e7a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSRX1P{slash}DP0_TX0P" input
+			(at 172.72 294.64 180)
+			(uuid "ad82e291-bd33-48fa-8b6a-585510c964d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSRX2N{slash}DP0_RX2N" input
+			(at 172.72 299.72 180)
+			(uuid "2ad18e7d-249a-42da-9cc4-dedaa1bac0cf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSRX2P{slash}DP0_RX2P" input
+			(at 172.72 304.8 180)
+			(uuid "90eb1534-f4d0-4dee-ae83-576f98de0fd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSTX1N{slash}DP0_TX1N" input
+			(at 172.72 309.88 180)
+			(uuid "b6e84bb9-129c-42a0-91da-8af576eabd4b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSTX1P{slash}DP0_TX1P" input
+			(at 172.72 313.69 180)
+			(uuid "d6175ca6-66b5-4800-9c43-501ed0055e56")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSTX2N{slash}DP0_TX3N" input
+			(at 172.72 318.77 180)
+			(uuid "1bc99c59-d99e-40f2-8d22-77177aaf6750")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_SSTX2P{slash}DP0_TX3P" input
+			(at 172.72 322.58 180)
+			(uuid "31ced430-7254-4261-b775-abc57415ec8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_USB20_OTG_DM" input
+			(at 172.72 327.66 180)
+			(uuid "854041f7-0679-45c9-9d06-5b09e4a1f75c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TYPEC0_USB20_OTG_DP" input
+			(at 172.72 331.47 180)
+			(uuid "715c292d-80b2-4cca-a55e-b68ee0d9c679")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB20_HOST0_DN" input
+			(at 172.72 336.55 180)
+			(uuid "4ada5b1e-9d89-4259-9fdf-6a0e2e6a16f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB20_HOST0_DP" input
+			(at 172.72 341.63 180)
+			(uuid "50f90986-5b7b-4f7a-b559-2268a3b579e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 322.58 166.37)
+		(size 36.83 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4f9867cc-a4f6-4624-9d42-d554af76a1d4")
+		(property "Sheetname" "High Speed IO"
+			(at 322.58 165.6584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "barebones_chip.kicad_sch"
+			(at 322.58 217.7546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "I2C4_SCL_M3" bidirectional
+			(at 322.58 171.45 180)
+			(uuid "0b4a6606-731a-463b-bdf5-9b128e51c680")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 156.21)
+		(size 40.64 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "93841f36-a7dd-4c37-a82e-2995d4aeb8c6")
+		(property "Sheetname" "Embedded Controller and Internal Audio"
+			(at 120.65 155.4984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "barebones_audio.kicad_sch"
+			(at 120.65 189.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 210.82 92.71)
+		(size 38.1 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9653571d-5cfe-4077-b5d8-4784f991e11c")
+		(property "Sheetname" "Power and Ground"
+			(at 210.82 91.9984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "barebones_power.kicad_sch"
+			(at 210.82 126.3146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 153.67)
+		(size 43.18 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a6df9939-ea59-435b-85e2-5e8ba9902bb7")
+		(property "Sheetname" "Memory Subsystem(LPDDR4x)"
+			(at 52.07 152.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "barebones_mems.kicad_sch"
+			(at 52.07 186.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

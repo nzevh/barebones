@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "barebones")(type "KiCad")(uri "${KIPRJMOD}/barebones.pretty")(options "")(descr ""))
+)
