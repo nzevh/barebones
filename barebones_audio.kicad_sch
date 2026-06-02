@@ -5154,7 +5154,7 @@
 	)
 	(text "POWER BUTTON"
 		(exclude_from_sim no)
-		(at 451.612 202.438 0)
+		(at 530.352 193.548 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5184,7 +5184,7 @@
 	)
 	(text "DIGITAL MEMS MIC"
 		(exclude_from_sim no)
-		(at 547.624 49.276 0)
+		(at 670.814 53.086 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5299,7 +5299,7 @@
 		(uuid "105a336d-c0ed-451e-a92a-289be7417a26")
 	)
 	(no_connect
-		(at 458.47 177.8)
+		(at 537.21 168.91)
 		(uuid "3a047d2d-51ce-4d41-8386-1be773508adf")
 	)
 	(no_connect
@@ -5319,7 +5319,7 @@
 		(uuid "c533404c-68b9-4b77-a5d8-31ef29047ca1")
 	)
 	(no_connect
-		(at 443.23 177.8)
+		(at 521.97 168.91)
 		(uuid "cceea056-a689-4d32-a5c6-10beac6d3427")
 	)
 	(wire
@@ -5771,6 +5771,16 @@
 			(type default)
 		)
 		(uuid "478f4f3d-ea5c-4ee1-ac79-ced6a82b07cf")
+	)
+	(wire
+		(pts
+			(xy 542.29 184.15) (xy 542.29 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4969abd9-7edb-4019-b2b8-6285989abe63")
 	)
 	(wire
 		(pts
@@ -6494,6 +6504,16 @@
 	)
 	(wire
 		(pts
+			(xy 508 184.15) (xy 521.97 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aca1e57c-ddbf-4519-8d08-4685d3777c05")
+	)
+	(wire
+		(pts
 			(xy 144.78 43.18) (xy 152.4 43.18)
 		)
 		(stroke
@@ -6651,6 +6671,16 @@
 			(type default)
 		)
 		(uuid "c69d209b-6dac-45aa-94cb-50fcca0730ed")
+	)
+	(wire
+		(pts
+			(xy 537.21 184.15) (xy 542.29 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c98aec39-b496-4e75-b3e8-4024247964ae")
 	)
 	(wire
 		(pts
@@ -7271,6 +7301,16 @@
 			(justify left bottom)
 		)
 		(uuid "8de2e1a2-179d-4218-98ef-dc27555d0470")
+	)
+	(label "PWR_BUTTON"
+		(at 508 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8ece9d1a-51ea-440f-857a-fbd5d36467f4")
 	)
 	(label "CODEC_MIC"
 		(at 33.02 63.5 0)
@@ -8527,7 +8567,7 @@
 	)
 	(symbol
 		(lib_id "SPH0645LM4H-B:SPH0645LM4H-B")
-		(at 547.37 35.56 0)
+		(at 670.56 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8538,7 +8578,7 @@
 		(fields_autoplaced yes)
 		(uuid "36435d5d-df72-4107-894e-ace1b6330318")
 		(property "Reference" "MK1"
-			(at 547.37 22.86 0)
+			(at 670.56 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8548,7 +8588,7 @@
 			)
 		)
 		(property "Value" "SPH0645LM4H-B"
-			(at 547.37 25.4 0)
+			(at 670.56 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8558,7 +8598,7 @@
 			)
 		)
 		(property "Footprint" "SPH0645LM4H-B:MIC_SPH0645LM4H-B"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8570,7 +8610,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8581,7 +8621,7 @@
 			)
 		)
 		(property "Description" "20 Hz ~ 10 kHz Digital, I2S Microphone MEMS (Silicon) 1.62 V ~ 3.6 V Omnidirectional (-26dB ±3dB @ 94dB SPL) Solder Pads"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8593,7 +8633,7 @@
 			)
 		)
 		(property "MF" "Knowles"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8605,7 +8645,7 @@
 			)
 		)
 		(property "PACKAGE" "SIP-7 Bourns"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8617,7 +8657,7 @@
 			)
 		)
 		(property "PRICE" "None"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8629,7 +8669,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8641,7 +8681,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/SPH0645LM4H-B/Knowles/view-part/?ref=eda"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8653,7 +8693,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8665,7 +8705,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SPH0645LM4H-B/Knowles/view-part/?ref=snap"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8677,7 +8717,7 @@
 			)
 		)
 		(property "MP" "SPH0645LM4H-B"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8689,7 +8729,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8701,7 +8741,7 @@
 			)
 		)
 		(property "AVAILABILITY" "Unavailable"
-			(at 547.37 35.56 0)
+			(at 670.56 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11058,6 +11098,87 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 542.29 189.23 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7abadecf-4b6a-4bae-a9d7-d307807ac83b")
+		(property "Reference" "C223"
+			(at 546.1 190.754 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 546.1 188.214 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 543.2552 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 542.29 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 542.29 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e37db23-6dd2-4452-aed7-43cf13257a78")
+		)
+		(pin "2"
+			(uuid "44e93c4a-b884-4ac6-9ecc-b4879a385df6")
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/93841f36-a7dd-4c37-a82e-2995d4aeb8c6"
+					(reference "C223")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 125.73 267.97 270)
 		(unit 1)
 		(body_style 1)
@@ -12278,6 +12399,84 @@
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/93841f36-a7dd-4c37-a82e-2995d4aeb8c6"
 					(reference "#PWR0194")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 542.29 193.04 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a58ea32e-a431-4578-9346-c2b206444009")
+		(property "Reference" "#PWR0256"
+			(at 542.29 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AGND"
+			(at 542.29 197.358 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 542.29 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 542.29 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 542.29 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2cf032d5-a56e-4a39-a6d9-5ae3781cf4c6")
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/93841f36-a7dd-4c37-a82e-2995d4aeb8c6"
+					(reference "#PWR0256")
 					(unit 1)
 				)
 			)
@@ -14934,7 +15133,7 @@
 	)
 	(symbol
 		(lib_id "TL3342F160QG:TL3342F160QG")
-		(at 450.85 185.42 90)
+		(at 529.59 176.53 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14944,7 +15143,7 @@
 		(dnp no)
 		(uuid "f667011d-08f1-4b32-ae6f-b39f4171baf8")
 		(property "Reference" "S1"
-			(at 444.5 195.326 90)
+			(at 523.24 186.436 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14955,7 +15154,7 @@
 			)
 		)
 		(property "Value" "TL3342F160QG"
-			(at 444.5 197.866 90)
+			(at 523.24 188.976 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14966,7 +15165,7 @@
 			)
 		)
 		(property "Footprint" "barebones:SW_TL3342F160QG"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14978,7 +15177,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14989,7 +15188,7 @@
 			)
 		)
 		(property "Description" "TACT, 50mA, 12VDC SPST-NO, Off-(On), Surface Mount"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15001,7 +15200,7 @@
 			)
 		)
 		(property "MF" "e-switch inc"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15013,7 +15212,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15025,7 +15224,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15037,7 +15236,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TL3342F160QG/E-Switch/view-part/?ref=eda"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15049,7 +15248,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TL3342F160QG/E-Switch/view-part/?ref=snap"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15061,7 +15260,7 @@
 			)
 		)
 		(property "MP" "TL3342F160QG"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15073,7 +15272,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15085,7 +15284,7 @@
 			)
 		)
 		(property "MANUFACTURER" "E SWITCH"
-			(at 450.85 185.42 0)
+			(at 529.59 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

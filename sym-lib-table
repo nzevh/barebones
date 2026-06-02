@@ -42,4 +42,5 @@
 	(lib (name "TPS2553DBVR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/TPS2553DBVR.kicad_sym") (options "") (descr ""))
 	(lib (name "PCA9306DCTR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/PCA9306DCTR.kicad_sym") (options "") (descr ""))
 	(lib (name "TPD4E02B04DQAR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/TPD4E02B04DQAR.kicad_sym") (options "") (descr ""))
+	(lib (name "10067847-001RLF") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/10067847-001RLF.kicad_sym") (options "") (descr ""))
 )
