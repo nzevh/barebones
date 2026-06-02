@@ -41284,7 +41284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barebones:IND_XAL7030-472MEB"
+		(property "Footprint" "XAL7030-472MEB:IND_XAL7030-472MEB"
 			(at 125.73 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -43839,7 +43839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barebones:IND_XAL7030-472MEB"
+		(property "Footprint" "XAL7030-472MEB:IND_XAL7030-472MEB"
 			(at 124.46 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -49210,7 +49210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barebones:IND_XAL7030-472MEB"
+		(property "Footprint" "XAL7030-472MEB:IND_XAL7030-472MEB"
 			(at 283.21 273.05 0)
 			(hide yes)
 			(show_name no)
@@ -51970,7 +51970,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barebones:IND_XAL7030-472MEB"
+		(property "Footprint" "XAL7030-472MEB:IND_XAL7030-472MEB"
 			(at 124.46 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -53556,7 +53556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "barebones:IND_XAL7030-472MEB"
+		(property "Footprint" "XAL7030-472MEB:IND_XAL7030-472MEB"
 			(at 124.46 138.43 0)
 			(hide yes)
 			(show_name no)
