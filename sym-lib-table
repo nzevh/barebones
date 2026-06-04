@@ -43,4 +43,8 @@
 	(lib (name "PCA9306DCTR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/PCA9306DCTR.kicad_sym") (options "") (descr ""))
 	(lib (name "TPD4E02B04DQAR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/TPD4E02B04DQAR.kicad_sym") (options "") (descr ""))
 	(lib (name "10067847-001RLF") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/10067847-001RLF.kicad_sym") (options "") (descr ""))
+	(lib (name "RK860-2") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/RK860-2.kicad_sym") (options "") (descr ""))
+	(lib (name "RK860-3") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/RK860-3.kicad_sym") (options "") (descr ""))
+	(lib (name "BLM18PG121SZ1D") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/BLM18PG121SZ1D.kicad_sym") (options "") (descr ""))
+	(lib (name "1N5819WT") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/1N5819WT.kicad_sym") (options "") (descr ""))
 )

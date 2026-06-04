@@ -7664,6 +7664,17 @@
 		)
 		(uuid "180a32c3-8f1f-4fce-a02a-615938ba0d3f")
 	)
+	(hierarchical_label "CMPIN_EC"
+		(shape input)
+		(at 457.2 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19af5a70-fe93-4ca1-b788-3fb06f640bba")
+	)
 	(hierarchical_label "JACK_SWITCH"
 		(shape input)
 		(at 147.32 100.33 180)
@@ -7674,6 +7685,28 @@
 			(justify right)
 		)
 		(uuid "1d9cc1a5-aef5-42da-b630-30f274ab80de")
+	)
+	(hierarchical_label "CHARGE_CNTRL"
+		(shape input)
+		(at 454.66 191.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "21b2bad4-326b-46b0-b52f-1f2bc9a4d68c")
+	)
+	(hierarchical_label "CHRG_PROT"
+		(shape input)
+		(at 459.74 205.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2a3076ab-ae4e-4165-b6fd-8089b8234394")
 	)
 	(hierarchical_label "JACK_SLEEVE"
 		(shape input)
@@ -7730,6 +7763,17 @@
 		)
 		(uuid "4b3a4208-1d18-4a33-a120-6914a81ef813")
 	)
+	(hierarchical_label "CHRG_OK_EC"
+		(shape input)
+		(at 457.2 200.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4f7c4cb4-bc18-4533-a7ff-4fb1d192a845")
+	)
 	(hierarchical_label "AMP_MUTE"
 		(shape input)
 		(at 74.93 292.1 0)
@@ -7743,7 +7787,7 @@
 	)
 	(hierarchical_label "PWRON_RK"
 		(shape input)
-		(at 553.72 120.65 0)
+		(at 454.66 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7774,6 +7818,28 @@
 		)
 		(uuid "6c61942d-177c-48f5-bf69-2ef5a73d5585")
 	)
+	(hierarchical_label "CHRG_12C_SCL"
+		(shape input)
+		(at 455.93 195.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e2d10f1-c029-4532-aa20-437c0c291900")
+	)
+	(hierarchical_label "BUCK_5V_PWRON"
+		(shape input)
+		(at 454.66 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "751bbd5e-4b78-4693-bbf6-5ca9c74579a2")
+	)
 	(hierarchical_label "JACK_RING_2"
 		(shape input)
 		(at 200.66 109.22 0)
@@ -7784,6 +7850,17 @@
 			(justify left)
 		)
 		(uuid "761dcb71-ca50-493f-9356-8674042914e1")
+	)
+	(hierarchical_label "USB_CTRL_RESET_2"
+		(shape input)
+		(at 455.93 224.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "843da271-76ca-45ab-b420-6c7f4fa892e4")
 	)
 	(hierarchical_label "ES_CCLK"
 		(shape input)
@@ -7806,6 +7883,28 @@
 			(justify left)
 		)
 		(uuid "869de6ac-72ca-4d84-b278-df080fa9c18c")
+	)
+	(hierarchical_label "FUEL_SDA"
+		(shape input)
+		(at 459.74 215.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8ef9cb78-4caf-45ce-9b40-d0d9e8906165")
+	)
+	(hierarchical_label "CMPOUT_EC"
+		(shape input)
+		(at 455.93 187.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "91312472-0ca0-4939-b6f2-e28e6b73e09c")
 	)
 	(hierarchical_label "SPK_OUT_R+"
 		(shape input)
@@ -7884,6 +7983,17 @@
 		)
 		(uuid "a252399b-e5ee-4783-8127-eac96e0faed5")
 	)
+	(hierarchical_label "USB_CTRL_RESET_1"
+		(shape input)
+		(at 457.2 220.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a6b6d980-79b2-4591-aa60-fcbec1f9d663")
+	)
 	(hierarchical_label "SPK_OUT_L-"
 		(shape input)
 		(at 171.45 254 0)
@@ -7916,6 +8026,28 @@
 			(justify right)
 		)
 		(uuid "c9f61356-acae-46b1-8fa0-f509b00e24a4")
+	)
+	(hierarchical_label "USB_SIG_STAT"
+		(shape input)
+		(at 454.66 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d198a2fe-f8c0-4278-88d7-dadc90921c4d")
+	)
+	(hierarchical_label "FUEL_SCL"
+		(shape input)
+		(at 459.74 210.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1a7417d-863c-4220-9bae-1d201dbf8de5")
 	)
 	(hierarchical_label "VCC_1V8_ES"
 		(shape input)
@@ -7972,16 +8104,16 @@
 		)
 		(uuid "f1997efa-7bc0-424b-9560-01998a3001dd")
 	)
-	(hierarchical_label "BUCK_5V_PWRON"
+	(hierarchical_label "PWRON_RK"
 		(shape input)
-		(at 553.72 124.46 0)
+		(at 455.93 229.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "f399e313-01fb-4bd7-9d7c-a3295a2c41e2")
+		(uuid "f30c7f5e-45d4-4363-8b83-4fbe5ea4701b")
 	)
 	(hierarchical_label "JACK_SWITCH"
 		(shape input)
@@ -8004,6 +8136,17 @@
 			(justify right)
 		)
 		(uuid "f858880c-0d2a-4cec-8161-ccfbeaa8c2ef")
+	)
+	(hierarchical_label "CHRG_12C_SDA"
+		(shape input)
+		(at 455.93 198.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fd694dd0-fcf4-47e1-96c6-db64a4174b76")
 	)
 	(symbol
 		(lib_id "Device:C")
