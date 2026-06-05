@@ -13734,16 +13734,6 @@
 		)
 		(uuid "83f32a92-daa8-43f1-a4e6-004e9027676f")
 	)
-	(text "PCIE30_PORT0_REF_CLKP"
-		(exclude_from_sim no)
-		(at 701.294 152.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "89a1426d-7903-47e4-bee3-2ef816eb0d37")
-	)
 	(text "SD CARD SLOT"
 		(exclude_from_sim no)
 		(at 775.716 351.79 0)
