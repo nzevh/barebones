@@ -269,7 +269,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT0_REF_CLKN" input
+		(pin "PCIE30_PORT0_REF_CLKN" output
 			(at 172.72 166.37 180)
 			(uuid "6467a6dc-5149-495b-9fea-ede867bca0f2")
 			(effects
@@ -279,7 +279,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT0_REF_CLKP" input
+		(pin "PCIE30_PORT0_REF_CLKP" output
 			(at 172.72 170.18 180)
 			(uuid "4e544f26-4945-4b7d-9fde-2baa3d28a668")
 			(effects
@@ -289,7 +289,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT0_RX0N" input
+		(pin "PCIE30_PORT0_RX0N" output
 			(at 172.72 173.99 180)
 			(uuid "229a7602-d085-48f6-b869-b5fb6b024f17")
 			(effects
@@ -299,7 +299,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT0_RX0P" input
+		(pin "PCIE30_PORT0_RX0P" output
 			(at 172.72 176.53 180)
 			(uuid "6a425cae-9eb2-42c5-9593-c14273071588")
 			(effects
@@ -309,7 +309,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT0_RX1P" input
+		(pin "PCIE30_PORT0_RX1P" output
 			(at 172.72 180.34 180)
 			(uuid "7826acb4-ee4b-4fa6-bc9c-3d80d83304d4")
 			(effects
@@ -359,7 +359,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT1_RX0N" input
+		(pin "PCIE30_PORT1_RX0N" output
 			(at 172.72 194.31 180)
 			(uuid "febdd341-6381-4e08-bfbc-4f4bd927f0ac")
 			(effects
@@ -369,7 +369,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT1_RX0P" input
+		(pin "PCIE30_PORT1_RX0P" output
 			(at 172.72 200.66 180)
 			(uuid "e1f1a4f8-4fdd-4692-b1ae-a158695da65e")
 			(effects
@@ -379,7 +379,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT1_RX1N" input
+		(pin "PCIE30_PORT1_RX1N" output
 			(at 172.72 207.01 180)
 			(uuid "8d887e66-d6a0-4933-9d94-1d65018a1510")
 			(effects
@@ -389,7 +389,7 @@
 				(justify left)
 			)
 		)
-		(pin "PCIE30_PORT1_RX1P" input
+		(pin "PCIE30_PORT1_RX1P" output
 			(at 172.72 213.36 180)
 			(uuid "6bd7d0a3-2b21-4246-bba2-f3cd89ce61f9")
 			(effects
