@@ -60,4 +60,8 @@
 	(lib (name "C3E-24.000-12-3030-X-R") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/C3E-24.000-12-3030-X-R.kicad_sym") (options "") (descr ""))
 	(lib (name "GL3523-ONY30") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/GL3523-ONY30.kicad_sym") (options "") (descr ""))
 	(lib (name "9FGV0641AKILFT") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/9FGV0641AKILFT.kicad_sym") (options "") (descr ""))
+	(lib (name "FUSB302BMPX") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/FUSB302BMPX.kicad_sym") (options "") (descr ""))
+	(lib (name "PI3DPX1207Q3ZHEX") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/PI3DPX1207Q3ZHEX.kicad_sym") (options "") (descr ""))
+	(lib (name "OV9734-H16A") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/OV9734-H16A.kicad_sym") (options "") (descr ""))
+	(lib (name "SD103AWS-E3-08") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/SD103AWS-E3-08.kicad_sym") (options "") (descr ""))
 )
