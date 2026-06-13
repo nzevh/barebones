@@ -2168,7 +2168,7 @@
 		(uuid "faf8bd3d-ae7d-4252-bd4c-0fb893a732ec")
 	)
 	(hierarchical_label "FSPI-CLK"
-		(shape input)
+		(shape output)
 		(at 184.15 53.34 0)
 		(effects
 			(font
@@ -2179,7 +2179,7 @@
 		(uuid "04a7a682-3de9-47db-a17f-e6c332b37244")
 	)
 	(hierarchical_label "FSPI-D0"
-		(shape bidirectional)
+		(shape input)
 		(at 184.15 55.88 0)
 		(effects
 			(font
@@ -2190,7 +2190,7 @@
 		(uuid "060d38c0-04ae-4d16-b6aa-be0cd2f5fb37")
 	)
 	(hierarchical_label "FSPI-CLK"
-		(shape input)
+		(shape output)
 		(at 241.3 21.59 0)
 		(effects
 			(font
@@ -2201,7 +2201,7 @@
 		(uuid "28cbf808-2790-488a-b306-0bb60603b480")
 	)
 	(hierarchical_label "FSPI-D3"
-		(shape bidirectional)
+		(shape output)
 		(at 184.15 50.8 0)
 		(effects
 			(font
@@ -2223,7 +2223,7 @@
 		(uuid "38a272f1-51c8-416b-a4ef-8343d010ca12")
 	)
 	(hierarchical_label "FSPI-CS0"
-		(shape bidirectional)
+		(shape input)
 		(at 111.76 48.26 180)
 		(effects
 			(font
@@ -2234,7 +2234,7 @@
 		(uuid "4f865dfd-c78f-40fb-a698-d7df2aa5ea70")
 	)
 	(hierarchical_label "FSPI-D2"
-		(shape bidirectional)
+		(shape input)
 		(at 111.76 53.34 180)
 		(effects
 			(font
@@ -2403,6 +2403,7 @@
 	(symbol
 		(lib_id "TPD1E05U06DPYR:TPD1E05U06DPYR")
 		(at 257.81 66.04 90)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2410,10 +2411,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1a642716-0083-4ad6-a584-6aca738f60ab")
 		(property "Reference" "D15"
-			(at 264.16 64.7699 90)
+			(at 264.16 67.3101 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2424,7 +2424,7 @@
 			)
 		)
 		(property "Value" "TPD1E05U06DPYR"
-			(at 264.16 67.3099 90)
+			(at 264.16 64.7701 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2751,7 +2751,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "2.2uF"
 			(at 207.264 53.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2988,7 +2988,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "0.1uF"
 			(at 218.694 53.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3985,7 +3985,7 @@
 	)
 	(symbol
 		(lib_id "PCF85063ATL_1_118:PCF85063ATL_1_118")
-		(at 86.36 119.38 0)
+		(at 63.5 146.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3995,7 +3995,7 @@
 		(dnp no)
 		(uuid "fab91fe1-d430-4f01-95a0-3e735c004ba8")
 		(property "Reference" "U50"
-			(at 86.36 104.14 0)
+			(at 63.5 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4005,7 +4005,7 @@
 			)
 		)
 		(property "Value" "PCF85063ATL/1,118"
-			(at 86.36 107.696 0)
+			(at 63.5 134.366 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4016,7 +4016,7 @@
 			)
 		)
 		(property "Footprint" "barebones:10-DFN_2.6X2.6_"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4028,7 +4028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4039,7 +4039,7 @@
 			)
 		)
 		(property "Description" "Real Time Clock (RTC) IC Clock/Calendar - I²C, 2-Wire Serial 10-XFDFN Exposed Pad"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4051,7 +4051,7 @@
 			)
 		)
 		(property "MF" "NXP USA"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4063,7 +4063,7 @@
 			)
 		)
 		(property "Package" "DFN-10 NXP Semiconductors"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4075,7 +4075,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4087,7 +4087,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/PCF85063ATL/1,118/NXP+Semiconductors/view-part/?ref=eda"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4099,7 +4099,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PCF85063ATL/1,118/NXP+Semiconductors/view-part/?ref=snap"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4111,7 +4111,7 @@
 			)
 		)
 		(property "PROD_ID" "IC-15415"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4123,7 +4123,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4135,7 +4135,7 @@
 			)
 		)
 		(property "MP" "PCF85063ATL/1,118"
-			(at 86.36 119.38 0)
+			(at 63.5 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
