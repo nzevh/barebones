@@ -1,0 +1,200 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator https://github.com/uPesy/easyeda2kicad.py)
+
+  (symbol "FH12-6S-0.5SH"
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "FPC"
+      (id 0)
+      (at 0 11.43 0)
+      (effects (font (size 1.27 1.27) ) )
+    )
+    (property
+      "Value"
+      "FH12-6S-0.5SH"
+      (id 1)
+      (at 0 -11.43 0)
+      (effects (font (size 1.27 1.27) ) )
+    )
+    (property
+      "Footprint"
+      "easyeda2kicad:FPC-SMD_FH12-6S-0.5SH-55"
+      (id 2)
+      (at 0 -13.97 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (property
+      "Datasheet"
+      "https://lcsc.com/product-detail/FPC-Connectors_Hirose_FH12-6S-0-5SH-55_Hirose-HRS-FH12-6S-0-5SH-55_C202118.html"
+      (id 3)
+      (at 0 -16.51 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (property
+      "Manufacturer"
+      "HRS(广濑)"
+      (id 4)
+      (at 0 -19.05 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (property
+      "MPN"
+      "FH12-6S-0.5SH(55)"
+      (id 5)
+      (at 0 -21.59 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (property
+      "LCSC Part"
+      "C202118"
+      (id 6)
+      (at 0 -24.13 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (property
+      "ki_keywords"
+      "FFC/FPC Connectors"
+      (id 8)
+      (at 0 -26.67 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (symbol "FH12-6S-0.5SH_0_1"
+      (circle
+        (center 0.00 3.81)
+        (radius 0.76)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (circle
+        (center 0.00 -1.27)
+        (radius 0.76)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (circle
+        (center 0.00 1.27)
+        (radius 0.76)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (circle
+        (center 0.00 -3.81)
+        (radius 0.76)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (circle
+        (center 0.00 6.35)
+        (radius 0.76)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (circle
+        (center 0.00 -6.35)
+        (radius 0.76)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 3.81) (xy -0.76 3.81)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -1.27) (xy -0.76 -1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 1.27) (xy -0.76 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -3.81) (xy -0.76 -3.81)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 6.35) (xy -0.76 6.35)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -6.35) (xy -0.76 -6.35)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 8.89) (xy 2.57 8.89) (xy 2.54 -8.89) (xy 0.00 -8.89) (xy -2.54 -8.89) (xy -2.54 8.89)
+        )
+        (stroke (width 0) (type default))
+        (fill (type background))
+      )
+      (pin unspecified line
+        (at -7.62 3.81 0)
+        (length 5.08)
+        (name "2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 1.27 0)
+        (length 5.08)
+        (name "3" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 -1.27 0)
+        (length 5.08)
+        (name "4" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 -3.81 0)
+        (length 5.08)
+        (name "5" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 -6.35 0)
+        (length 5.08)
+        (name "6" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at 7.62 -3.81 180)
+        (length 5.08)
+        (name "7" (effects (font (size 1.27 1.27))))
+        (number "7" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at 7.62 -6.35 180)
+        (length 5.08)
+        (name "8" (effects (font (size 1.27 1.27))))
+        (number "8" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 6.35 0)
+        (length 5.08)
+        (name "1" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+)

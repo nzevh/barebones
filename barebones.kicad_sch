@@ -3,18 +3,8 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "55e8bb80-206a-472b-ac89-6555b6c3d282")
-	(paper "A2")
+	(paper "A0")
 	(lib_symbols)
-	(wire
-		(pts
-			(xy 300.99 171.45) (xy 322.58 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc59003d-8a05-4f2a-b8ca-5341fbc386ea")
-	)
 	(sheet
 		(at 24.13 96.52)
 		(size 38.1 43.18)
@@ -648,8 +638,8 @@
 		)
 	)
 	(sheet
-		(at 322.58 166.37)
-		(size 36.83 50.8)
+		(at 807.72 450.85)
+		(size 275.59 289.56)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -664,7 +654,7 @@
 		)
 		(uuid "4f9867cc-a4f6-4624-9d42-d554af76a1d4")
 		(property "Sheetname" "High Speed IO"
-			(at 322.58 165.6584 0)
+			(at 807.72 450.1384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -675,7 +665,7 @@
 			)
 		)
 		(property "Sheetfile" "barebones_chip.kicad_sch"
-			(at 322.58 217.7546 0)
+			(at 807.72 740.9946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -686,13 +676,833 @@
 			)
 		)
 		(pin "I2C4_SCL_M3" bidirectional
-			(at 322.58 171.45 180)
+			(at 807.72 580.39 180)
 			(uuid "0b4a6606-731a-463b-bdf5-9b128e51c680")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A0_A" output
+			(at 807.72 584.2 180)
+			(uuid "4a5b16b3-63fa-43f4-a264-590d6136295e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A0_B" output
+			(at 807.72 589.28 180)
+			(uuid "8673bade-a092-488b-b109-6c55b96fcf62")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A1_A" output
+			(at 807.72 594.36 180)
+			(uuid "df2ec012-8516-4deb-a5d3-9b68e24de632")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A1_B" output
+			(at 807.72 600.71 180)
+			(uuid "b2da5119-23f5-4bad-b879-3a33b2a9c093")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A2_A" output
+			(at 807.72 607.06 180)
+			(uuid "349af9e8-8f49-4a2b-a281-51ef25deb78d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A2_B" output
+			(at 807.72 614.68 180)
+			(uuid "d9a14b80-3d4c-4d45-b11d-804d39973e22")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A3_A" output
+			(at 807.72 618.49 180)
+			(uuid "0e04e1e9-3779-4bce-9f30-9264909fb2db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A3_B" output
+			(at 807.72 622.3 180)
+			(uuid "3aea8d81-70a8-4706-92c6-278a1ca394b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A4_A" output
+			(at 807.72 626.11 180)
+			(uuid "e370381c-14d0-4e2c-b703-25ed7bac0483")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A4_B" output
+			(at 807.72 629.92 180)
+			(uuid "2a8c0967-10a6-47c5-b859-346caad7aac0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A5_A" output
+			(at 807.72 633.73 180)
+			(uuid "abcbfe67-ac6b-4de5-a38a-fb66ecb6609f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_A5_B" output
+			(at 807.72 637.54 180)
+			(uuid "4a96d221-cb6d-410b-806d-037777fefef1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_CKB_A" output
+			(at 807.72 641.35 180)
+			(uuid "33a5fc73-e03a-47f1-89c1-6bde713f4de7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_CKB_B" output
+			(at 807.72 647.7 180)
+			(uuid "e1a44d4b-1c7d-4d32-a753-4e807b9bbb90")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_CK_A" output
+			(at 807.72 645.16 180)
+			(uuid "580da576-5b32-418c-9858-fa5f79307cdc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_CK_B" output
+			(at 807.72 652.78 180)
+			(uuid "5ee22bf8-7de4-422b-880b-d900721ad255")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DM0_A" output
+			(at 807.72 656.59 180)
+			(uuid "686adcc8-a514-45b5-bb28-458c8b693ee5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DM0_B" output
+			(at 807.72 660.4 180)
+			(uuid "d088a9ec-ca5f-4a7e-8a6c-685f0a6e0f72")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DM1_A" output
+			(at 807.72 665.48 180)
+			(uuid "0b979396-8bcc-42ec-ac8f-689e14a66286")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DM1_B" output
+			(at 807.72 671.83 180)
+			(uuid "0c6058f7-c026-41d3-81a4-fced1e548967")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ0_A" bidirectional
+			(at 807.72 676.91 180)
+			(uuid "fa9e8832-64bc-4c79-bc4b-ef1d7de534f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ0_B" bidirectional
+			(at 807.72 680.72 180)
+			(uuid "73c9a0b1-dbaa-4652-8aa4-6c990bfc710d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ1_A" bidirectional
+			(at 807.72 684.53 180)
+			(uuid "9724f5d7-f2b2-41bf-b770-9b3c60c0dcde")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ1_B" bidirectional
+			(at 807.72 688.34 180)
+			(uuid "d274bcca-604b-44dd-987c-1f4ebfd3b414")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ2_A" bidirectional
+			(at 807.72 692.15 180)
+			(uuid "bc3e1cc7-d5b0-466e-97d7-4a7fcbd1b784")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ2_B" bidirectional
+			(at 807.72 695.96 180)
+			(uuid "d693eedc-5de2-44bb-830d-664a1bede5ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ3_A" bidirectional
+			(at 807.72 699.77 180)
+			(uuid "a2ae9fed-7d09-412e-96df-d973df6c8878")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ3_B" bidirectional
+			(at 807.72 703.58 180)
+			(uuid "d25ee889-d51f-4dcb-9fe8-a3006849b932")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ4_A" bidirectional
+			(at 807.72 707.39 180)
+			(uuid "4a029659-9918-456b-867e-9d80e502fbef")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ4_B" bidirectional
+			(at 807.72 711.2 180)
+			(uuid "b55fbe95-cb83-4d5e-847a-7019bc335ef3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ5_A" bidirectional
+			(at 807.72 715.01 180)
+			(uuid "e7c1ce6a-858c-4f91-bf23-9366af6b2abe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ5_B" bidirectional
+			(at 807.72 718.82 180)
+			(uuid "d3b3a3e5-3817-4dd9-bfee-402bf1730b02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ6_A" bidirectional
+			(at 807.72 722.63 180)
+			(uuid "9949989b-9647-493c-91c4-c84ceba644a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ6_B" bidirectional
+			(at 807.72 726.44 180)
+			(uuid "4f0afff6-d560-4a2c-bcc3-a11e5e100abf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ7_A" bidirectional
+			(at 807.72 730.25 180)
+			(uuid "76ab4b24-c15b-4895-bd56-e50d466c075e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ7_B" bidirectional
+			(at 807.72 734.06 180)
+			(uuid "46b9f9ff-1c6b-4549-a596-219aeeefb64c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ8_A" bidirectional
+			(at 807.72 737.87 180)
+			(uuid "0f8c960d-946d-40ea-b651-ed3f7810f374")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ8_B" bidirectional
+			(at 844.55 740.41 270)
+			(uuid "33637b05-855b-46aa-93a3-deca6b07022a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ9_A" bidirectional
+			(at 850.9 740.41 270)
+			(uuid "1a5e53f3-058c-4d5c-b3d1-0fbfda47e8b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ9_B" bidirectional
+			(at 855.98 740.41 270)
+			(uuid "35b28373-3bc5-4b63-b54d-b43acfa70e69")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ10_A" bidirectional
+			(at 861.06 740.41 270)
+			(uuid "89236c23-7b0e-4498-ad63-23c75f18eb40")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ10_B" bidirectional
+			(at 866.14 740.41 270)
+			(uuid "e78f1825-d17e-40ea-929b-cde805948c79")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ11_A" bidirectional
+			(at 872.49 740.41 270)
+			(uuid "510aa86a-67e9-43ea-8659-85eb2c91de40")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ11_B" bidirectional
+			(at 877.57 740.41 270)
+			(uuid "7f3a8e71-4fc2-40cd-9b84-7f78d5737dd4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ12_A" bidirectional
+			(at 882.65 740.41 270)
+			(uuid "fa987d43-c9b6-47c4-8ae0-0038f6d72865")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ12_B" bidirectional
+			(at 887.73 740.41 270)
+			(uuid "9a6f79d0-35f6-470d-9e71-5d08cdbf7fe0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ13_A" bidirectional
+			(at 892.81 740.41 270)
+			(uuid "8f3d5352-64f3-4b3a-9db6-22c537e37d6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ13_B" bidirectional
+			(at 897.89 740.41 270)
+			(uuid "5273f087-6ce9-4426-ab3a-ee85a5947e5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ14_A" bidirectional
+			(at 904.24 740.41 270)
+			(uuid "41a2a160-ec5c-41f9-a7ae-5da611312dfc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ14_B" bidirectional
+			(at 910.59 740.41 270)
+			(uuid "3c9657c6-1d79-4a57-a049-8bac027002db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ15_A" bidirectional
+			(at 916.94 740.41 270)
+			(uuid "d162184b-cf54-46fa-ae90-253de52485fd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQ15_B" bidirectional
+			(at 923.29 740.41 270)
+			(uuid "3700ce04-b5dd-4fb3-b4fb-169495b47574")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS0N_A" bidirectional
+			(at 932.18 740.41 270)
+			(uuid "c996e061-59ce-4313-9055-5fb9c045cda0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS0N_B" bidirectional
+			(at 939.8 740.41 270)
+			(uuid "87ef3776-fed0-4874-826b-28b2a25d3f33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS0P_A" bidirectional
+			(at 948.69 740.41 270)
+			(uuid "bd1ef59a-a251-4ccc-bfcb-710edb0d4816")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS0P_B" bidirectional
+			(at 958.85 740.41 270)
+			(uuid "ebe71148-6ddc-438f-bd4a-48bc99f18da3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS1N_A" bidirectional
+			(at 969.01 740.41 270)
+			(uuid "a4241255-dc48-446b-b9bd-c65014ba4198")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS1N_B" bidirectional
+			(at 977.9 740.41 270)
+			(uuid "2de26bee-6020-4310-9251-4aa3b5fb7213")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS1P_A" bidirectional
+			(at 986.79 740.41 270)
+			(uuid "e472a940-aa1b-4368-90c3-d6e06ecefc08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_DQS1P_B" bidirectional
+			(at 996.95 740.41 270)
+			(uuid "bf89ff43-ab87-4d79-b123-c9881d0180dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CKE0{slash}LP5_CS0_A" output
+			(at 1007.11 740.41 270)
+			(uuid "053b1dde-ecee-4af4-b28d-a6a5adc5e4c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CKE0{slash}LP5_CS0_B" output
+			(at 1017.27 740.41 270)
+			(uuid "bdaa4c1c-534c-47f0-92f0-1c9d4a9d029d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CKE1{slash}LP5_CS1_A" output
+			(at 1027.43 740.41 270)
+			(uuid "321184fe-a968-4058-be58-ebd7192a55b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CKE1{slash}LP5_CS1_B" output
+			(at 1036.32 740.41 270)
+			(uuid "7b1d16ce-bca9-4e2f-a69c-16568921514e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CS0_A" output
+			(at 1046.48 740.41 270)
+			(uuid "c5bdf5dc-1e24-4b6f-8efa-0de75f8957cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CS0_B" output
+			(at 1057.91 740.41 270)
+			(uuid "f4f1e3b1-d4e8-43c6-84aa-151ca8872a92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CS1_A" output
+			(at 1068.07 740.41 270)
+			(uuid "7a0cd27d-ddd4-43f1-86ea-6ffa3f07c9b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR_CH0_LP4{slash}4X_CS1_B" output
+			(at 1083.31 709.93 0)
+			(uuid "0cceac1d-8930-484b-9f5b-66c321187393")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A0_C" output
+			(at 1083.31 704.85 0)
+			(uuid "b2eb1507-4d66-4a55-96d9-16a50f59a6a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A0_D" output
+			(at 1083.31 699.77 0)
+			(uuid "a4123796-8781-4077-b272-962f5b7216dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A1_C" output
+			(at 1083.31 695.96 0)
+			(uuid "12faa0f2-9a46-4da9-9a73-c2689fe9ed56")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A1_D" output
+			(at 1083.31 690.88 0)
+			(uuid "9c84aabd-2b35-4059-8bc8-51647e96ddf7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A2_C" output
+			(at 1083.31 685.8 0)
+			(uuid "50f3a171-e755-4918-b012-6bd809ba1c95")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A2_D" output
+			(at 1083.31 680.72 0)
+			(uuid "653b7687-d722-41c3-a9bf-a5f167e98625")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A3_C" output
+			(at 1083.31 675.64 0)
+			(uuid "873232e8-fb99-4c05-872b-1a485fa020c2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A3_D" output
+			(at 1083.31 670.56 0)
+			(uuid "e5f2d41b-a1cb-4384-b1d6-e3a87d7fee0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A4_C" output
+			(at 1083.31 665.48 0)
+			(uuid "aad111d2-177c-465a-8118-2f8ab951c270")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A4_D" output
+			(at 1083.31 660.4 0)
+			(uuid "0478f0a0-7923-40eb-810d-f037af9086e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A5_C" output
+			(at 1083.31 650.24 0)
+			(uuid "769f0a41-ff38-4481-9b3a-aa0fd387f401")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_A5_D" output
+			(at 1083.31 655.32 0)
+			(uuid "cb979203-5b84-42f6-9f16-1a3c1d198360")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_CKB_C" output
+			(at 1083.31 645.16 0)
+			(uuid "a6470131-0432-41dd-b516-5901d7e63263")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR_CH1_CKB_D" output
+			(at 1083.31 638.81 0)
+			(uuid "390015e9-d52e-44aa-bf87-b5c2e59d1ce8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

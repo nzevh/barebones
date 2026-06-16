@@ -12030,7 +12030,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00721e19-7158-43e3-8a7f-8002189e0041")
-		(property "Reference" "C390"
+		(property "Reference" "C381"
 			(at 527.812 68.326 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12094,7 +12094,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C390")
+					(reference "C381")
 					(unit 1)
 				)
 			)
@@ -12112,7 +12112,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0a80c20a-786a-43f8-a47f-27022ffd2dd6")
-		(property "Reference" "#PWR0377"
+		(property "Reference" "#PWR0354"
 			(at 191.77 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -12173,7 +12173,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0377")
+					(reference "#PWR0354")
 					(unit 1)
 				)
 			)
@@ -12191,7 +12191,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0b6bf075-2dea-43fb-b089-40aa2b2043bc")
-		(property "Reference" "C386"
+		(property "Reference" "C391"
 			(at 509.016 132.334 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12255,7 +12255,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C386")
+					(reference "C391")
 					(unit 1)
 				)
 			)
@@ -12273,7 +12273,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1277cf76-6e50-4666-933a-4640281647d7")
-		(property "Reference" "C341"
+		(property "Reference" "C374"
 			(at 155.702 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12337,7 +12337,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C341")
+					(reference "C374")
 					(unit 1)
 				)
 			)
@@ -12355,7 +12355,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "19b370b6-a209-41a4-8c29-209f9de5dbae")
-		(property "Reference" "C373"
+		(property "Reference" "C376"
 			(at 181.102 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12419,7 +12419,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C373")
+					(reference "C376")
 					(unit 1)
 				)
 			)
@@ -12437,7 +12437,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1fc7a28c-74bc-415c-918e-3408e34aaf1d")
-		(property "Reference" "C375"
+		(property "Reference" "C382"
 			(at 152.146 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12501,7 +12501,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C375")
+					(reference "C382")
 					(unit 1)
 				)
 			)
@@ -12518,7 +12518,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20dc3b4b-2904-40a6-87e9-08e60d1da710")
-		(property "Reference" "R82"
+		(property "Reference" "R123"
 			(at 50.292 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12582,7 +12582,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "R82")
+					(reference "R123")
 					(unit 1)
 				)
 			)
@@ -12600,7 +12600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21e19cc1-84d7-4238-814f-63c6b4066ee4")
-		(property "Reference" "#PWR0414"
+		(property "Reference" "#PWR0351"
 			(at 525.78 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -12660,7 +12660,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0414")
+					(reference "#PWR0351")
 					(unit 1)
 				)
 			)
@@ -12678,7 +12678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "284307bc-1a41-4425-a082-a709ccbdf041")
-		(property "Reference" "#PWR0359"
+		(property "Reference" "#PWR0342"
 			(at 405.13 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -12739,7 +12739,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0359")
+					(reference "#PWR0342")
 					(unit 1)
 				)
 			)
@@ -12757,7 +12757,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33ee7a9f-63dd-45c0-a6e4-ef9f0f8076ad")
-		(property "Reference" "R81"
+		(property "Reference" "R122"
 			(at 54.61 61.214 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12821,7 +12821,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "R81")
+					(reference "R122")
 					(unit 1)
 				)
 			)
@@ -12839,7 +12839,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "38d45287-b78b-4279-9013-7a53aa60fce9")
-		(property "Reference" "C385"
+		(property "Reference" "C379"
 			(at 502.412 68.326 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12903,7 +12903,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C385")
+					(reference "C379")
 					(unit 1)
 				)
 			)
@@ -12921,7 +12921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ab2930f-03fc-40c4-a15b-52f604cc8e2e")
-		(property "Reference" "#PWR0369"
+		(property "Reference" "#PWR0349"
 			(at 467.36 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -12981,7 +12981,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0369")
+					(reference "#PWR0349")
 					(unit 1)
 				)
 			)
@@ -12999,7 +12999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b4e8708-896a-4972-b4ba-a6f78f644f75")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0341"
 			(at 71.12 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13060,7 +13060,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0131")
+					(reference "#PWR0341")
 					(unit 1)
 				)
 			)
@@ -13077,7 +13077,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c5ff682-2171-4b68-9db2-ac07a45a4328")
-		(property "Reference" "R161"
+		(property "Reference" "R125"
 			(at 384.302 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13141,7 +13141,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "R161")
+					(reference "R125")
 					(unit 1)
 				)
 			)
@@ -13159,7 +13159,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e9df878-aa37-4dce-9d75-2a06e163f1cc")
-		(property "Reference" "C377"
+		(property "Reference" "C384"
 			(at 167.386 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13223,7 +13223,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C377")
+					(reference "C384")
 					(unit 1)
 				)
 			)
@@ -13241,7 +13241,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f3d0ed7-2f83-4035-bcf9-238656c30f8b")
-		(property "Reference" "C387"
+		(property "Reference" "C380"
 			(at 515.112 68.326 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13305,7 +13305,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C387")
+					(reference "C380")
 					(unit 1)
 				)
 			)
@@ -13323,7 +13323,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4be9f038-475b-44e1-8864-b95889c09c07")
-		(property "Reference" "C379"
+		(property "Reference" "C386"
 			(at 182.626 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13387,7 +13387,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C379")
+					(reference "C386")
 					(unit 1)
 				)
 			)
@@ -13405,7 +13405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58638bc2-6a4c-4761-a622-c4170971e6f3")
-		(property "Reference" "#PWR0360"
+		(property "Reference" "#PWR0344"
 			(at 48.26 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -13465,7 +13465,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0360")
+					(reference "#PWR0344")
 					(unit 1)
 				)
 			)
@@ -13483,7 +13483,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "59fdaff6-b05c-4a07-aea2-68cbf4c35a6d")
-		(property "Reference" "C380"
+		(property "Reference" "C387"
 			(at 190.246 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13547,7 +13547,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C380")
+					(reference "C387")
 					(unit 1)
 				)
 			)
@@ -13565,7 +13565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64acdce7-6885-49e8-ba45-d376559ed0c5")
-		(property "Reference" "#PWR0375"
+		(property "Reference" "#PWR0339"
 			(at 196.85 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -13625,7 +13625,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0375")
+					(reference "#PWR0339")
 					(unit 1)
 				)
 			)
@@ -13643,7 +13643,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "651cb9a7-8c57-483b-b87b-5479393b55af")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0357"
 			(at 125.73 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -13703,7 +13703,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0117")
+					(reference "#PWR0357")
 					(unit 1)
 				)
 			)
@@ -13721,7 +13721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66c27447-32bc-4665-846f-e3f84d2cc05c")
-		(property "Reference" "#PWR0412"
+		(property "Reference" "#PWR0350"
 			(at 191.77 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -13781,7 +13781,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0412")
+					(reference "#PWR0350")
 					(unit 1)
 				)
 			)
@@ -13799,7 +13799,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6782b945-57c3-43a4-b166-71cad90fa657")
-		(property "Reference" "C382"
+		(property "Reference" "C378"
 			(at 489.712 68.326 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13863,7 +13863,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C382")
+					(reference "C378")
 					(unit 1)
 				)
 			)
@@ -13881,7 +13881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d998cba-cafe-49d1-9d7a-1f62f5962be5")
-		(property "Reference" "#PWR0376"
+		(property "Reference" "#PWR0352"
 			(at 137.16 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13941,7 +13941,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0376")
+					(reference "#PWR0352")
 					(unit 1)
 				)
 			)
@@ -13959,7 +13959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80a1a5ec-2856-479f-bb5b-9d3dfa0f73e1")
-		(property "Reference" "#PWR0365"
+		(property "Reference" "#PWR0345"
 			(at 382.27 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -14019,7 +14019,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0365")
+					(reference "#PWR0345")
 					(unit 1)
 				)
 			)
@@ -14037,7 +14037,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "81a62ae3-b299-4d3a-b694-da6c0c4cc9dd")
-		(property "Reference" "#PWR0415"
+		(property "Reference" "#PWR0355"
 			(at 525.78 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -14098,7 +14098,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0415")
+					(reference "#PWR0355")
 					(unit 1)
 				)
 			)
@@ -14116,7 +14116,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c891764-6913-4469-baa1-326e49028794")
-		(property "Reference" "#PWR0413"
+		(property "Reference" "#PWR0353"
 			(at 471.17 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -14176,7 +14176,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0413")
+					(reference "#PWR0353")
 					(unit 1)
 				)
 			)
@@ -14194,7 +14194,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d07a82e-5af9-4a72-aed9-7489e96046ff")
-		(property "Reference" "U13"
+		(property "Reference" "U33"
 			(at 440.69 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14883,7 +14883,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "U13")
+					(reference "U33")
 					(unit 1)
 				)
 			)
@@ -14901,7 +14901,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d594402-6bf0-496d-a693-5f06cb0fc4be")
-		(property "Reference" "#PWR0366"
+		(property "Reference" "#PWR0358"
 			(at 421.64 316.23 0)
 			(hide yes)
 			(show_name no)
@@ -14961,7 +14961,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0366")
+					(reference "#PWR0358")
 					(unit 1)
 				)
 			)
@@ -14979,7 +14979,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92752ca4-7987-4f14-8982-e3e3db8291c1")
-		(property "Reference" "C374"
+		(property "Reference" "C377"
 			(at 193.802 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15043,7 +15043,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C374")
+					(reference "C377")
 					(unit 1)
 				)
 			)
@@ -15061,7 +15061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "972049ff-ff0c-4155-8d3c-ce8528b4cb20")
-		(property "Reference" "U12"
+		(property "Reference" "U32"
 			(at 106.68 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15750,7 +15750,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "U12")
+					(reference "U32")
 					(unit 1)
 				)
 			)
@@ -15768,7 +15768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a644c6ae-900a-4b72-b948-20cd2185459e")
-		(property "Reference" "#PWR0416"
+		(property "Reference" "#PWR0343"
 			(at 530.86 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -15828,7 +15828,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0416")
+					(reference "#PWR0343")
 					(unit 1)
 				)
 			)
@@ -15846,7 +15846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b27fa07c-ac9b-4d02-badc-b9c027bd719d")
-		(property "Reference" "#PWR0271"
+		(property "Reference" "#PWR0338"
 			(at 132.08 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -15906,7 +15906,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0271")
+					(reference "#PWR0338")
 					(unit 1)
 				)
 			)
@@ -15924,7 +15924,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3974258-8c8a-4640-9daf-1f7836159e24")
-		(property "Reference" "C389"
+		(property "Reference" "C393"
 			(at 524.256 132.334 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15988,7 +15988,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C389")
+					(reference "C393")
 					(unit 1)
 				)
 			)
@@ -16006,7 +16006,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5b41122-80d7-4d37-b8a3-7cf69433a7fc")
-		(property "Reference" "C388"
+		(property "Reference" "C392"
 			(at 516.636 132.334 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16070,7 +16070,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C388")
+					(reference "C392")
 					(unit 1)
 				)
 			)
@@ -16088,7 +16088,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0fde194-d6d2-40c4-a849-d46ab1ab8d84")
-		(property "Reference" "C378"
+		(property "Reference" "C385"
 			(at 175.006 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16152,7 +16152,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C378")
+					(reference "C385")
 					(unit 1)
 				)
 			)
@@ -16170,7 +16170,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d64fc8de-e85a-4c13-ac71-65c7418b601d")
-		(property "Reference" "C376"
+		(property "Reference" "C383"
 			(at 159.766 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16234,7 +16234,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C376")
+					(reference "C383")
 					(unit 1)
 				)
 			)
@@ -16252,7 +16252,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "db72dfd6-489d-4181-8871-8d2d7ec5c455")
-		(property "Reference" "C383"
+		(property "Reference" "C389"
 			(at 493.776 132.334 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16316,7 +16316,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C383")
+					(reference "C389")
 					(unit 1)
 				)
 			)
@@ -16334,7 +16334,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e9c140bc-c46b-44cb-9909-d69cee7df670")
-		(property "Reference" "#PWR0374"
+		(property "Reference" "#PWR0346"
 			(at 196.85 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -16395,7 +16395,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0374")
+					(reference "#PWR0346")
 					(unit 1)
 				)
 			)
@@ -16413,7 +16413,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec1aff31-2272-4892-b357-c02845a76f25")
-		(property "Reference" "R160"
+		(property "Reference" "R124"
 			(at 388.62 63.754 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16477,7 +16477,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "R160")
+					(reference "R124")
 					(unit 1)
 				)
 			)
@@ -16495,7 +16495,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f02c8a20-f0e7-4675-aea7-980e86442778")
-		(property "Reference" "#PWR0417"
+		(property "Reference" "#PWR0348"
 			(at 530.86 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -16556,7 +16556,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0417")
+					(reference "#PWR0348")
 					(unit 1)
 				)
 			)
@@ -16574,7 +16574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f06bedf9-07ed-4c72-9f33-52a13c05906e")
-		(property "Reference" "#PWR0367"
+		(property "Reference" "#PWR0359"
 			(at 459.74 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -16634,7 +16634,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0367")
+					(reference "#PWR0359")
 					(unit 1)
 				)
 			)
@@ -16652,7 +16652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f416e16b-3f09-4da8-8755-5ca312932525")
-		(property "Reference" "#PWR0368"
+		(property "Reference" "#PWR0340"
 			(at 466.09 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -16712,7 +16712,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0368")
+					(reference "#PWR0340")
 					(unit 1)
 				)
 			)
@@ -16730,7 +16730,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f420e3b4-eaf7-41d1-b616-266dbbc2df07")
-		(property "Reference" "C381"
+		(property "Reference" "C388"
 			(at 486.156 132.334 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16794,7 +16794,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C381")
+					(reference "C388")
 					(unit 1)
 				)
 			)
@@ -16812,7 +16812,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f510c6cc-94d7-48c4-abb5-a913254fd475")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR0356"
 			(at 87.63 313.69 0)
 			(hide yes)
 			(show_name no)
@@ -16872,7 +16872,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0118")
+					(reference "#PWR0356")
 					(unit 1)
 				)
 			)
@@ -16890,7 +16890,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f716a47b-96d5-4668-b1e8-36182128b3dd")
-		(property "Reference" "C342"
+		(property "Reference" "C375"
 			(at 168.402 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16954,7 +16954,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C342")
+					(reference "C375")
 					(unit 1)
 				)
 			)
@@ -16972,7 +16972,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9d9e970-a518-4e90-9389-05ac95001fe2")
-		(property "Reference" "C384"
+		(property "Reference" "C390"
 			(at 501.396 132.334 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17036,7 +17036,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "C384")
+					(reference "C390")
 					(unit 1)
 				)
 			)
@@ -17054,7 +17054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbc553ef-710e-4411-9114-06b2df6777d1")
-		(property "Reference" "#PWR0322"
+		(property "Reference" "#PWR0347"
 			(at 133.35 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -17114,7 +17114,7 @@
 		(instances
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/a6df9939-ea59-435b-85e2-5e8ba9902bb7"
-					(reference "#PWR0322")
+					(reference "#PWR0347")
 					(unit 1)
 				)
 			)
