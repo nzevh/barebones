@@ -78,4 +78,6 @@
 	(lib (name "SM06B-SRSS-TB_LF__SN_") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/SM06B-SRSS-TB_LF__SN_.kicad_sym") (options "") (descr ""))
 	(lib (name "20682-040E-02") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/20682-040E-02.kicad_sym") (options "") (descr ""))
 	(lib (name "FH12-6S-0.5SH(55)") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/FH12-6S-0.5SH(55).kicad_sym") (options "") (descr ""))
+	(lib (name "DRV5032DUDBZR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/DRV5032DUDBZR.kicad_sym") (options "") (descr ""))
+	(lib (name "BAT54C") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/BAT54C.kicad_sym") (options "") (descr ""))
 )

@@ -27230,6 +27230,16 @@
 		)
 		(uuid "10b679e3-dc2b-4afe-b9ef-023558f075da")
 	)
+	(text "CMOS BATTERY"
+		(exclude_from_sim no)
+		(at 889.254 785.368 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "12ccbeec-e47c-4244-8d48-13259980e109")
+	)
 	(text "USB TYPE-C PORTS\n"
 		(exclude_from_sim no)
 		(at 330.962 97.282 0)
@@ -27242,7 +27252,7 @@
 	)
 	(text "AUO B160ZAN01.U DISPLAY"
 		(exclude_from_sim no)
-		(at 1041.146 653.034 0)
+		(at 1043.94 644.398 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -30640,6 +30650,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 373.38) (xy 335.28 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "164fc4fb-3c41-4c46-a1ef-0e6c91e72999")
+	)
+	(wire
+		(pts
 			(xy 1131.57 337.82) (xy 1137.92 337.82)
 		)
 		(stroke
@@ -30690,7 +30710,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 128.27) (xy 381 127)
+			(xy 382.27 147.32) (xy 382.27 146.05)
 		)
 		(stroke
 			(width 0)
@@ -30940,7 +30960,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 368.3) (xy 373.38 368.3)
+			(xy 387.35 400.05) (xy 374.65 400.05)
 		)
 		(stroke
 			(width 0)
@@ -31670,7 +31690,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 378.46) (xy 313.69 378.46)
+			(xy 311.15 410.21) (xy 314.96 410.21)
 		)
 		(stroke
 			(width 0)
@@ -31707,6 +31727,16 @@
 			(type default)
 		)
 		(uuid "280faccd-41a7-43e2-a36a-84b0e80cf270")
+	)
+	(wire
+		(pts
+			(xy 332.74 113.03) (xy 337.82 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "285a23aa-9efa-4b59-8b80-fc4739e1e682")
 	)
 	(wire
 		(pts
@@ -31790,7 +31820,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 116.84) (xy 347.98 116.84)
+			(xy 336.55 135.89) (xy 349.25 135.89)
 		)
 		(stroke
 			(width 0)
@@ -31830,7 +31860,7 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 378.46) (xy 313.69 381)
+			(xy 314.96 410.21) (xy 314.96 412.75)
 		)
 		(stroke
 			(width 0)
@@ -32010,7 +32040,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 365.76) (xy 279.4 365.76)
+			(xy 266.7 397.51) (xy 280.67 397.51)
 		)
 		(stroke
 			(width 0)
@@ -33060,7 +33090,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 365.76) (xy 342.9 365.76)
+			(xy 331.47 397.51) (xy 344.17 397.51)
 		)
 		(stroke
 			(width 0)
@@ -33360,7 +33390,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 365.76) (xy 309.88 365.76)
+			(xy 325.12 397.51) (xy 311.15 397.51)
 		)
 		(stroke
 			(width 0)
@@ -34130,7 +34160,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 114.3) (xy 284.48 114.3)
+			(xy 273.05 133.35) (xy 285.75 133.35)
 		)
 		(stroke
 			(width 0)
@@ -34310,7 +34340,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 368.3) (xy 309.88 368.3)
+			(xy 325.12 400.05) (xy 311.15 400.05)
 		)
 		(stroke
 			(width 0)
@@ -34467,6 +34497,16 @@
 			(type default)
 		)
 		(uuid "593d06b2-77d6-4d6b-8976-c108be96c4ca")
+	)
+	(wire
+		(pts
+			(xy 868.68 773.43) (xy 877.57 773.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59458a46-d5ee-41e3-9031-43285ce4887c")
 	)
 	(wire
 		(pts
@@ -34750,6 +34790,16 @@
 	)
 	(wire
 		(pts
+			(xy 868.68 768.35) (xy 868.68 773.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "606dd039-533f-4cf8-aa58-690f15beb0cf")
+	)
+	(wire
+		(pts
 			(xy 876.3 71.12) (xy 876.3 63.5)
 		)
 		(stroke
@@ -34840,7 +34890,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 116.84) (xy 284.48 116.84)
+			(xy 273.05 135.89) (xy 285.75 135.89)
 		)
 		(stroke
 			(width 0)
@@ -35350,7 +35400,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 114.3) (xy 314.96 114.3)
+			(xy 328.93 133.35) (xy 316.23 133.35)
 		)
 		(stroke
 			(width 0)
@@ -35370,7 +35420,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 127) (xy 320.04 127)
+			(xy 316.23 146.05) (xy 321.31 146.05)
 		)
 		(stroke
 			(width 0)
@@ -35520,7 +35570,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 368.3) (xy 279.4 368.3)
+			(xy 266.7 400.05) (xy 280.67 400.05)
 		)
 		(stroke
 			(width 0)
@@ -35787,6 +35837,16 @@
 			(type default)
 		)
 		(uuid "72c45d77-d149-4a99-bd1c-2850ae94dbc8")
+	)
+	(wire
+		(pts
+			(xy 868.68 778.51) (xy 868.68 775.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d461f9-ef8f-4eb0-a44b-c4b47fb81dda")
 	)
 	(wire
 		(pts
@@ -36150,7 +36210,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 116.84) (xy 314.96 116.84)
+			(xy 328.93 135.89) (xy 316.23 135.89)
 		)
 		(stroke
 			(width 0)
@@ -36280,7 +36340,7 @@
 	)
 	(wire
 		(pts
-			(xy 377.19 378.46) (xy 373.38 378.46)
+			(xy 378.46 410.21) (xy 374.65 410.21)
 		)
 		(stroke
 			(width 0)
@@ -36410,7 +36470,7 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 365.76) (xy 373.38 365.76)
+			(xy 387.35 397.51) (xy 374.65 397.51)
 		)
 		(stroke
 			(width 0)
@@ -36420,7 +36480,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 130.81) (xy 320.04 127)
+			(xy 321.31 149.86) (xy 321.31 146.05)
 		)
 		(stroke
 			(width 0)
@@ -37240,7 +37300,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 116.84) (xy 378.46 116.84)
+			(xy 392.43 135.89) (xy 379.73 135.89)
 		)
 		(stroke
 			(width 0)
@@ -37530,7 +37590,17 @@
 	)
 	(wire
 		(pts
-			(xy 377.19 379.73) (xy 377.19 378.46)
+			(xy 868.68 775.97) (xy 877.57 775.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93b79521-c074-44fa-b232-00bd488e9725")
+	)
+	(wire
+		(pts
+			(xy 378.46 411.48) (xy 378.46 410.21)
 		)
 		(stroke
 			(width 0)
@@ -37817,6 +37887,16 @@
 			(type default)
 		)
 		(uuid "994be5bf-dc90-44b6-a740-61f367c6c8b0")
+	)
+	(wire
+		(pts
+			(xy 308.61 113.03) (xy 325.12 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "996a844b-c6f0-45ff-8062-6dc6cadea86c")
 	)
 	(wire
 		(pts
@@ -39270,7 +39350,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 114.3) (xy 347.98 114.3)
+			(xy 336.55 133.35) (xy 349.25 133.35)
 		)
 		(stroke
 			(width 0)
@@ -39300,7 +39380,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 127) (xy 378.46 127)
+			(xy 382.27 146.05) (xy 379.73 146.05)
 		)
 		(stroke
 			(width 0)
@@ -39680,7 +39760,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 114.3) (xy 378.46 114.3)
+			(xy 392.43 133.35) (xy 379.73 133.35)
 		)
 		(stroke
 			(width 0)
@@ -40357,6 +40437,16 @@
 			(type default)
 		)
 		(uuid "c80b0719-0790-4a4b-a3de-1fce56ce919e")
+	)
+	(wire
+		(pts
+			(xy 306.07 373.38) (xy 322.58 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8875ff6-cf70-4ab8-af2c-aa2e21eeb7b0")
 	)
 	(wire
 		(pts
@@ -42370,7 +42460,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 368.3) (xy 342.9 368.3)
+			(xy 331.47 400.05) (xy 344.17 400.05)
 		)
 		(stroke
 			(width 0)
@@ -43569,7 +43659,7 @@
 		(uuid "0ffabdeb-2d76-41c4-9a9b-5d896cb32a34")
 	)
 	(label "USB1_RX1P"
-		(at 327.66 116.84 180)
+		(at 328.93 135.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43849,7 +43939,7 @@
 		(uuid "2a9a64d2-7d37-432b-8b61-60fc464f9278")
 	)
 	(label "USB2_RX2P"
-		(at 265.43 368.3 0)
+		(at 266.7 400.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44089,7 +44179,7 @@
 		(uuid "438c18d5-ca3e-458b-bdf3-812ff891be25")
 	)
 	(label "USB1_RX2N"
-		(at 271.78 114.3 0)
+		(at 273.05 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44279,7 +44369,7 @@
 		(uuid "52366908-d7b1-4b85-9cc2-8c7ed1184192")
 	)
 	(label "USB2_RX1P"
-		(at 323.85 368.3 180)
+		(at 325.12 400.05 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44289,7 +44379,7 @@
 		(uuid "52987297-3f5f-4cd3-bc8e-e45b3fa33f45")
 	)
 	(label "USB2_TX1N"
-		(at 330.2 365.76 0)
+		(at 331.47 397.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44749,7 +44839,7 @@
 		(uuid "75640934-84ff-4153-bca6-2a2baa89ad17")
 	)
 	(label "USB2_TX2P"
-		(at 386.08 368.3 180)
+		(at 387.35 400.05 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44838,6 +44928,16 @@
 		)
 		(uuid "78cca24e-7252-478f-a4a9-aebc18126c17")
 	)
+	(label "USB2_SBU1"
+		(at 306.07 373.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "796fb566-9ed3-42ff-97b2-727d0491c39c")
+	)
 	(label "GL_VP12_P2"
 		(at 590.55 308.61 180)
 		(effects
@@ -44889,7 +44989,7 @@
 		(uuid "7d5d3c93-5adb-4538-937d-f2d46f8ad831")
 	)
 	(label "USB1_TX2P"
-		(at 391.16 116.84 180)
+		(at 392.43 135.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45099,7 +45199,7 @@
 		(uuid "8ddd4b58-8886-4217-a94b-0df1ee614ae8")
 	)
 	(label "USB1_RX2P"
-		(at 271.78 116.84 0)
+		(at 273.05 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45109,7 +45209,7 @@
 		(uuid "8e79827b-77f3-4625-8a75-e117a095eec6")
 	)
 	(label "USB2_RX1N"
-		(at 323.85 365.76 180)
+		(at 325.12 397.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45319,7 +45419,7 @@
 		(uuid "a0368e4e-76ca-45d3-b43a-8493e00e91fb")
 	)
 	(label "USB2_TX2N"
-		(at 386.08 365.76 180)
+		(at 387.35 397.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45749,7 +45849,7 @@
 		(uuid "c00f5871-7c4b-4889-9aff-7d1e82ce4716")
 	)
 	(label "USB1_RX1N"
-		(at 327.66 114.3 180)
+		(at 328.93 133.35 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45809,7 +45909,7 @@
 		(uuid "c555f2e4-7d00-489d-801e-a3fc0be87af2")
 	)
 	(label "USB2_TX1P"
-		(at 330.2 368.3 0)
+		(at 331.47 400.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45859,7 +45959,7 @@
 		(uuid "c961ee1d-51be-4454-b064-1cc654c961d5")
 	)
 	(label "USB2_RX2N"
-		(at 265.43 365.76 0)
+		(at 266.7 397.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46069,7 +46169,7 @@
 		(uuid "d68ca092-ccbf-45f9-945c-7511f823e791")
 	)
 	(label "USB1_TX2N"
-		(at 391.16 114.3 180)
+		(at 392.43 133.35 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46077,6 +46177,16 @@
 			(justify right bottom)
 		)
 		(uuid "d771bd1c-8458-470d-a8d9-f17adfa7aac2")
+	)
+	(label "USB1_SBU1"
+		(at 308.61 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7c41379-91ba-428e-835c-f1ac8d358d1d")
 	)
 	(label "USB2_CC2"
 		(at 52.07 422.91 0)
@@ -46089,7 +46199,7 @@
 		(uuid "d7ecd80e-dfb6-4511-8b19-70d93777a4f7")
 	)
 	(label "USB1_TX1N"
-		(at 335.28 114.3 0)
+		(at 336.55 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46389,7 +46499,7 @@
 		(uuid "f348320e-2727-4be7-83ec-5ce48fe06a56")
 	)
 	(label "USB1_TX1P"
-		(at 335.28 116.84 0)
+		(at 336.55 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47290,6 +47400,17 @@
 		)
 		(uuid "77b7839c-38e8-474b-9f4e-f6a05d753655")
 	)
+	(hierarchical_label "USB_2_SBU1_DC"
+		(shape input)
+		(at 337.82 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a7dcdcc-dc06-40e8-b539-3e91e2948bde")
+	)
 	(hierarchical_label "HDMI1_TX3P_PORT{slash}eDP1_TX_D3P"
 		(shape input)
 		(at 300.99 755.65 0)
@@ -47609,6 +47730,17 @@
 		)
 		(uuid "ab65f9e2-e034-4289-8dd3-0e21b0c945e0")
 	)
+	(hierarchical_label "USB_1_SBU1_DC"
+		(shape input)
+		(at 337.82 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ad1bb952-f003-4079-996a-107566d104a1")
+	)
 	(hierarchical_label "USB_2_RX2P"
 		(shape input)
 		(at 283.21 334.01 180)
@@ -47795,6 +47927,17 @@
 			(justify left)
 		)
 		(uuid "cf9d5998-6662-4079-84b8-f77c1d39a5b1")
+	)
+	(hierarchical_label "USB_2_SBU1_DC"
+		(shape input)
+		(at 335.28 373.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1ac2d03-5406-4539-ba0a-698a82d5a989")
 	)
 	(hierarchical_label "PCIE30X1_0_CLKREQn_M1_L"
 		(shape input)
@@ -48073,7 +48216,7 @@
 	)
 	(hierarchical_label "SWO_14"
 		(shape input)
-		(at 1102.36 417.83 180)
+		(at 1102.36 420.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -48238,7 +48381,7 @@
 	)
 	(hierarchical_label "NRST_7"
 		(shape input)
-		(at 1102.36 420.37 180)
+		(at 1102.36 417.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -50203,6 +50346,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 328.93 113.03 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "095877d0-0bc7-4187-a74d-eadc5b91226a")
+		(property "Reference" "R214"
+			(at 330.962 119.126 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 330.962 116.586 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 328.93 114.808 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 328.93 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 328.93 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a904d623-8e22-46de-921d-e1e52c26ccdd")
+		)
+		(pin "2"
+			(uuid "2f1ab4de-b86e-453e-90da-a6e73f6dff8a")
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
+					(reference "R214")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 800.1 280.67 0)
 		(unit 1)
@@ -51489,7 +51713,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 381 128.27 0)
+		(at 382.27 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -51500,7 +51724,7 @@
 		(fields_autoplaced yes)
 		(uuid "0cf62755-712a-4d8b-84ba-debe54a020e8")
 		(property "Reference" "#PWR0447"
-			(at 381 134.62 0)
+			(at 382.27 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51511,7 +51735,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 381 133.35 0)
+			(at 382.27 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -51521,7 +51745,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 381 128.27 0)
+			(at 382.27 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51532,7 +51756,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 381 128.27 0)
+			(at 382.27 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51543,7 +51767,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 381 128.27 0)
+			(at 382.27 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54324,7 +54548,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 320.04 130.81 0)
+		(at 321.31 149.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -54335,7 +54559,7 @@
 		(fields_autoplaced yes)
 		(uuid "231286ec-07cd-466f-8837-b12a49b97eee")
 		(property "Reference" "#PWR0448"
-			(at 320.04 137.16 0)
+			(at 321.31 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54346,7 +54570,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 320.04 135.89 0)
+			(at 321.31 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -54356,7 +54580,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 130.81 0)
+			(at 321.31 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54367,7 +54591,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 130.81 0)
+			(at 321.31 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54378,7 +54602,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 320.04 130.81 0)
+			(at 321.31 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55267,6 +55491,186 @@
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
 					(reference "#PWR0573")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SM02B-GHS-TB_LF__SN_:SM02B-GHS-TB_LF__SN_")
+		(at 887.73 775.97 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a898693-88f8-4597-9006-d221b66eead0")
+		(property "Reference" "J21"
+			(at 895.35 773.4299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SM02B-GHS-TB_LF__SN_"
+			(at 895.35 775.9699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "barebones:JST_SM02B-GHS-TB_LF__SN_"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Connector Header Surface Mount, Right Angle 2 position 0.049 (1.25mm)"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "JST"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SM02B-GHS-TB%20(LF)(SN)/JST/view-part/?ref=eda"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SM02B-GHS-TB%20(LF)(SN)/JST/view-part/?ref=snap"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "SM02B-GHS-TB (LF)(SN)"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "JST"
+			(at 887.73 775.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "c929e632-bd11-438b-8a7d-4fa10d84e44a")
+		)
+		(pin "2"
+			(uuid "d09d02df-0439-4266-82dc-29866afffa00")
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -58004,6 +58408,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 326.39 373.38 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "40fee5bd-d361-49d3-9332-3c68e3ae5006")
+		(property "Reference" "R215"
+			(at 328.422 379.476 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 328.422 376.936 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 326.39 375.158 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 326.39 373.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 326.39 373.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "20b29a74-23a2-489f-a15d-5be3c3baeff8")
+		)
+		(pin "2"
+			(uuid "ac01e82e-35c9-400d-b933-42e80da892c0")
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
+					(reference "R215")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 365.76 80.01 90)
 		(mirror x)
@@ -59696,6 +60181,83 @@
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
 					(reference "#PWR0535")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 868.68 768.35 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "492540db-e5b9-4eb9-9c86-628bebe6d163")
+		(property "Reference" "#PWR0594"
+			(at 868.68 772.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "V_BAT_CMOS"
+			(at 868.68 764.794 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 868.68 768.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 868.68 768.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 868.68 768.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bd45a886-3a4e-41db-b532-a19e79505281")
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
+					(reference "#PWR0594")
 					(unit 1)
 				)
 			)
@@ -62761,7 +63323,7 @@
 	)
 	(symbol
 		(lib_id "TPD4E02B04DQAR:TPD4E02B04DQAR")
-		(at 358.14 370.84 0)
+		(at 359.41 402.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -62772,7 +63334,7 @@
 		(fields_autoplaced yes)
 		(uuid "60424b1e-84aa-4595-94d1-777cfff0792a")
 		(property "Reference" "D9"
-			(at 358.14 358.14 0)
+			(at 359.41 389.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -62782,7 +63344,7 @@
 			)
 		)
 		(property "Value" "TPD4E02B04DQAR"
-			(at 358.14 360.68 0)
+			(at 359.41 392.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -62792,7 +63354,7 @@
 			)
 		)
 		(property "Footprint" "barebones:DIO_TPD4E02B04DQAR"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62804,7 +63366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62815,7 +63377,7 @@
 			)
 		)
 		(property "Description" "Quad 0.25-pF, ±3.6-V, ±12-kV ESD protection diode for USB 3.0,  HDMI 2.0 & High Speed Signals"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62827,7 +63389,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62839,7 +63401,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.55 mm"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62851,7 +63413,7 @@
 			)
 		)
 		(property "Package" "USON-10 Texas Instruments"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62863,7 +63425,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62875,7 +63437,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=eda"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62887,7 +63449,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62899,7 +63461,7 @@
 			)
 		)
 		(property "PARTREV" "B"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62911,7 +63473,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=snap"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62923,7 +63485,7 @@
 			)
 		)
 		(property "MP" "TPD4E02B04DQAR"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62935,7 +63497,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62947,7 +63509,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 358.14 370.84 0)
+			(at 359.41 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65031,7 +65593,7 @@
 	)
 	(symbol
 		(lib_id "TPD4E02B04DQAR:TPD4E02B04DQAR")
-		(at 299.72 119.38 0)
+		(at 300.99 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -65042,7 +65604,7 @@
 		(fields_autoplaced yes)
 		(uuid "6cf5e8d2-8f83-4baf-b3be-2681826068eb")
 		(property "Reference" "D6"
-			(at 299.72 106.68 0)
+			(at 300.99 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -65052,7 +65614,7 @@
 			)
 		)
 		(property "Value" "TPD4E02B04DQAR"
-			(at 299.72 109.22 0)
+			(at 300.99 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -65062,7 +65624,7 @@
 			)
 		)
 		(property "Footprint" "barebones:DIO_TPD4E02B04DQAR"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65074,7 +65636,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65085,7 +65647,7 @@
 			)
 		)
 		(property "Description" "Quad 0.25-pF, ±3.6-V, ±12-kV ESD protection diode for USB 3.0,  HDMI 2.0 & High Speed Signals"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65097,7 +65659,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65109,7 +65671,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.55 mm"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65121,7 +65683,7 @@
 			)
 		)
 		(property "Package" "USON-10 Texas Instruments"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65133,7 +65695,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65145,7 +65707,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=eda"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65157,7 +65719,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65169,7 +65731,7 @@
 			)
 		)
 		(property "PARTREV" "B"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65181,7 +65743,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=snap"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65193,7 +65755,7 @@
 			)
 		)
 		(property "MP" "TPD4E02B04DQAR"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65205,7 +65767,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65217,7 +65779,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 299.72 119.38 0)
+			(at 300.99 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66476,6 +67038,83 @@
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
 					(reference "C483")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 868.68 778.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "73949e05-fa4c-4ce1-9afb-02a30d182232")
+		(property "Reference" "#PWR0595"
+			(at 868.68 784.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 868.68 783.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 868.68 778.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 868.68 778.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 868.68 778.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "25f1cb26-a372-41b9-ad04-37805fa96fa0")
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
+					(reference "#PWR0595")
 					(unit 1)
 				)
 			)
@@ -71707,7 +72346,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 377.19 379.73 0)
+		(at 378.46 411.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -71718,7 +72357,7 @@
 		(fields_autoplaced yes)
 		(uuid "94ccb00a-5f4d-478b-bb7d-3767c42e238c")
 		(property "Reference" "#PWR0521"
-			(at 377.19 386.08 0)
+			(at 378.46 417.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71729,7 +72368,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 377.19 384.81 0)
+			(at 378.46 416.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -71739,7 +72378,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 377.19 379.73 0)
+			(at 378.46 411.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71750,7 +72389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 377.19 379.73 0)
+			(at 378.46 411.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71761,7 +72400,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 377.19 379.73 0)
+			(at 378.46 411.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71863,7 +72502,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 313.69 381 0)
+		(at 314.96 412.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -71874,7 +72513,7 @@
 		(fields_autoplaced yes)
 		(uuid "956deff2-8a42-4ef0-9a13-7bf070563d2c")
 		(property "Reference" "#PWR0522"
-			(at 313.69 387.35 0)
+			(at 314.96 419.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71885,7 +72524,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 313.69 386.08 0)
+			(at 314.96 417.83 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -71895,7 +72534,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 313.69 381 0)
+			(at 314.96 412.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71906,7 +72545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 313.69 381 0)
+			(at 314.96 412.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71917,7 +72556,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 313.69 381 0)
+			(at 314.96 412.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75630,7 +76269,7 @@
 	)
 	(symbol
 		(lib_id "TPD4E02B04DQAR:TPD4E02B04DQAR")
-		(at 363.22 119.38 0)
+		(at 364.49 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -75641,7 +76280,7 @@
 		(fields_autoplaced yes)
 		(uuid "a606fc7e-a590-48e9-baee-ffde3f1fa78a")
 		(property "Reference" "D7"
-			(at 363.22 106.68 0)
+			(at 364.49 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -75651,7 +76290,7 @@
 			)
 		)
 		(property "Value" "TPD4E02B04DQAR"
-			(at 363.22 109.22 0)
+			(at 364.49 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -75661,7 +76300,7 @@
 			)
 		)
 		(property "Footprint" "barebones:DIO_TPD4E02B04DQAR"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75673,7 +76312,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75684,7 +76323,7 @@
 			)
 		)
 		(property "Description" "Quad 0.25-pF, ±3.6-V, ±12-kV ESD protection diode for USB 3.0,  HDMI 2.0 & High Speed Signals"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75696,7 +76335,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75708,7 +76347,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.55 mm"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75720,7 +76359,7 @@
 			)
 		)
 		(property "Package" "USON-10 Texas Instruments"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75732,7 +76371,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75744,7 +76383,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=eda"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75756,7 +76395,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75768,7 +76407,7 @@
 			)
 		)
 		(property "PARTREV" "B"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75780,7 +76419,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=snap"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75792,7 +76431,7 @@
 			)
 		)
 		(property "MP" "TPD4E02B04DQAR"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75804,7 +76443,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75816,7 +76455,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 363.22 119.38 0)
+			(at 364.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76649,7 +77288,7 @@
 	)
 	(symbol
 		(lib_id "TPD4E02B04DQAR:TPD4E02B04DQAR")
-		(at 294.64 370.84 0)
+		(at 295.91 402.59 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -76660,7 +77299,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8caa04c-cdb4-41e6-87a6-8ae8a6657443")
 		(property "Reference" "D8"
-			(at 294.64 358.14 0)
+			(at 295.91 389.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -76670,7 +77309,7 @@
 			)
 		)
 		(property "Value" "TPD4E02B04DQAR"
-			(at 294.64 360.68 0)
+			(at 295.91 392.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -76680,7 +77319,7 @@
 			)
 		)
 		(property "Footprint" "barebones:DIO_TPD4E02B04DQAR"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76692,7 +77331,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76703,7 +77342,7 @@
 			)
 		)
 		(property "Description" "Quad 0.25-pF, ±3.6-V, ±12-kV ESD protection diode for USB 3.0,  HDMI 2.0 & High Speed Signals"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76715,7 +77354,7 @@
 			)
 		)
 		(property "MF" "Texas Instruments"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76727,7 +77366,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.55 mm"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76739,7 +77378,7 @@
 			)
 		)
 		(property "Package" "USON-10 Texas Instruments"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76751,7 +77390,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76763,7 +77402,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=eda"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76775,7 +77414,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76787,7 +77426,7 @@
 			)
 		)
 		(property "PARTREV" "B"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76799,7 +77438,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=snap"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76811,7 +77450,7 @@
 			)
 		)
 		(property "MP" "TPD4E02B04DQAR"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76823,7 +77462,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76835,7 +77474,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Texas Instruments"
-			(at 294.64 370.84 0)
+			(at 295.91 402.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
