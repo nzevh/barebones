@@ -27230,16 +27230,6 @@
 		)
 		(uuid "10b679e3-dc2b-4afe-b9ef-023558f075da")
 	)
-	(text "CMOS BATTERY"
-		(exclude_from_sim no)
-		(at 889.254 785.368 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "12ccbeec-e47c-4244-8d48-13259980e109")
-	)
 	(text "USB TYPE-C PORTS\n"
 		(exclude_from_sim no)
 		(at 330.962 97.282 0)
@@ -30660,7 +30650,7 @@
 	)
 	(wire
 		(pts
-			(xy 1131.57 337.82) (xy 1137.92 337.82)
+			(xy 1131.57 308.61) (xy 1137.92 308.61)
 		)
 		(stroke
 			(width 0)
@@ -33380,7 +33370,7 @@
 	)
 	(wire
 		(pts
-			(xy 1131.57 314.96) (xy 1137.92 314.96)
+			(xy 1131.57 331.47) (xy 1137.92 331.47)
 		)
 		(stroke
 			(width 0)
@@ -34500,16 +34490,6 @@
 	)
 	(wire
 		(pts
-			(xy 868.68 773.43) (xy 877.57 773.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59458a46-d5ee-41e3-9031-43285ce4887c")
-	)
-	(wire
-		(pts
 			(xy 107.95 325.12) (xy 120.65 325.12)
 		)
 		(stroke
@@ -34787,16 +34767,6 @@
 			(type default)
 		)
 		(uuid "60531389-0c5f-4d48-bb28-22569b86b780")
-	)
-	(wire
-		(pts
-			(xy 868.68 768.35) (xy 868.68 773.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "606dd039-533f-4cf8-aa58-690f15beb0cf")
 	)
 	(wire
 		(pts
@@ -35837,16 +35807,6 @@
 			(type default)
 		)
 		(uuid "72c45d77-d149-4a99-bd1c-2850ae94dbc8")
-	)
-	(wire
-		(pts
-			(xy 868.68 778.51) (xy 868.68 775.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72d461f9-ef8f-4eb0-a44b-c4b47fb81dda")
 	)
 	(wire
 		(pts
@@ -37590,16 +37550,6 @@
 	)
 	(wire
 		(pts
-			(xy 868.68 775.97) (xy 877.57 775.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93b79521-c074-44fa-b232-00bd488e9725")
-	)
-	(wire
-		(pts
 			(xy 378.46 411.48) (xy 378.46 410.21)
 		)
 		(stroke
@@ -37910,7 +37860,7 @@
 	)
 	(wire
 		(pts
-			(xy 1131.57 320.04) (xy 1137.92 320.04)
+			(xy 1131.57 326.39) (xy 1137.92 326.39)
 		)
 		(stroke
 			(width 0)
@@ -38760,7 +38710,7 @@
 	)
 	(wire
 		(pts
-			(xy 1131.57 332.74) (xy 1137.92 332.74)
+			(xy 1131.57 313.69) (xy 1137.92 313.69)
 		)
 		(stroke
 			(width 0)
@@ -40390,7 +40340,7 @@
 	)
 	(wire
 		(pts
-			(xy 1131.57 325.12) (xy 1137.92 325.12)
+			(xy 1131.57 321.31) (xy 1137.92 321.31)
 		)
 		(stroke
 			(width 0)
@@ -46718,9 +46668,9 @@
 		)
 		(uuid "11cdca5b-d85b-4cf5-b6b8-f5046d7485b7")
 	)
-	(hierarchical_label "JACK_SWITCH"
+	(hierarchical_label "HP_JACK_SWITCH"
 		(shape input)
-		(at 1137.92 332.74 0)
+		(at 1137.92 313.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47378,9 +47328,9 @@
 		)
 		(uuid "6dae3cb7-61c1-4b31-a697-490035232e4d")
 	)
-	(hierarchical_label "JACK_RING_2"
+	(hierarchical_label "HP_JACK_RING_2"
 		(shape input)
-		(at 1137.92 320.04 0)
+		(at 1137.92 326.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47664,9 +47614,9 @@
 		)
 		(uuid "a418674a-53d7-452b-82f4-21488cd3a4f6")
 	)
-	(hierarchical_label "JACK_RING_1"
+	(hierarchical_label "HP_JACK_RING_1"
 		(shape input)
-		(at 1137.92 325.12 0)
+		(at 1137.92 321.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47895,9 +47845,9 @@
 		)
 		(uuid "cc8bf3c0-b3e5-4b65-931c-e75f03925ce1")
 	)
-	(hierarchical_label "JACK_TIP"
+	(hierarchical_label "HP_JACK_TIP"
 		(shape input)
-		(at 1137.92 337.82 0)
+		(at 1137.92 308.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -48412,9 +48362,9 @@
 		)
 		(uuid "fe080b85-95b5-47ac-992d-9e8da25b3be5")
 	)
-	(hierarchical_label "JACK_SLEEVE"
+	(hierarchical_label "HP_JACK_SLEEVE"
 		(shape input)
-		(at 1137.92 314.96 0)
+		(at 1137.92 331.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -54626,7 +54576,8 @@
 	)
 	(symbol
 		(lib_id "SJ2-35894B-SMT-TR:SJ2-35894B-SMT-TR")
-		(at 1113.79 327.66 0)
+		(at 1113.79 318.77 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -54634,10 +54585,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "24205eba-4dff-4e96-be05-89449ac21d8e")
 		(property "Reference" "J6"
-			(at 1113.79 307.34 0)
+			(at 1113.79 300.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -54647,7 +54597,7 @@
 			)
 		)
 		(property "Value" "SJ2-35894B-SMT-TR"
-			(at 1113.79 309.88 0)
+			(at 1113.79 303.276 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -54657,7 +54607,7 @@
 			)
 		)
 		(property "Footprint" "barebones:CUI_SJ2-35894B-SMT-TR"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54669,7 +54619,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54680,7 +54630,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54691,7 +54641,7 @@
 			)
 		)
 		(property "MF" "Same Sky"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54703,7 +54653,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "5.2 mm"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54715,7 +54665,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54727,7 +54677,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54739,7 +54689,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/SJ235894BSMTTR/Same+Sky/view-part/?ref=eda"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54751,7 +54701,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54763,7 +54713,7 @@
 			)
 		)
 		(property "PARTREV" "1.04"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54775,7 +54725,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SJ235894BSMTTR/Same+Sky/view-part/?ref=snap"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54787,7 +54737,7 @@
 			)
 		)
 		(property "MP" "SJ235894BSMTTR"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54799,7 +54749,7 @@
 			)
 		)
 		(property "Description_1" "3.50mm (0.141, 1/8, Mini Plug) - Headphone Phone Jack Stereo (4 Conductor, TRRS) Connector Solder"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54811,7 +54761,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54823,7 +54773,7 @@
 			)
 		)
 		(property "MANUFACTURER" "CUI Devices"
-			(at 1113.79 327.66 0)
+			(at 1113.79 318.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55491,186 +55441,6 @@
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
 					(reference "#PWR0573")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SM02B-GHS-TB_LF__SN_:SM02B-GHS-TB_LF__SN_")
-		(at 887.73 775.97 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a898693-88f8-4597-9006-d221b66eead0")
-		(property "Reference" "J21"
-			(at 895.35 773.4299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SM02B-GHS-TB_LF__SN_"
-			(at 895.35 775.9699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "barebones:JST_SM02B-GHS-TB_LF__SN_"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Connector Header Surface Mount, Right Angle 2 position 0.049 (1.25mm)"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "JST"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SM02B-GHS-TB%20(LF)(SN)/JST/view-part/?ref=eda"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SM02B-GHS-TB%20(LF)(SN)/JST/view-part/?ref=snap"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "SM02B-GHS-TB (LF)(SN)"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "JST"
-			(at 887.73 775.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "c929e632-bd11-438b-8a7d-4fa10d84e44a")
-		)
-		(pin "2"
-			(uuid "d09d02df-0439-4266-82dc-29866afffa00")
-		)
-		(instances
-			(project "barebones"
-				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
-					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -60181,83 +59951,6 @@
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
 					(reference "#PWR0535")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 868.68 768.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "492540db-e5b9-4eb9-9c86-628bebe6d163")
-		(property "Reference" "#PWR0594"
-			(at 868.68 772.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "V_BAT_CMOS"
-			(at 868.68 764.794 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 868.68 768.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 868.68 768.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 868.68 768.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bd45a886-3a4e-41db-b532-a19e79505281")
-		)
-		(instances
-			(project "barebones"
-				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
-					(reference "#PWR0594")
 					(unit 1)
 				)
 			)
@@ -67038,83 +66731,6 @@
 			(project "barebones"
 				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
 					(reference "C483")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 868.68 778.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "73949e05-fa4c-4ce1-9afb-02a30d182232")
-		(property "Reference" "#PWR0595"
-			(at 868.68 784.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 868.68 783.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 868.68 778.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 868.68 778.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 868.68 778.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "25f1cb26-a372-41b9-ad04-37805fa96fa0")
-		)
-		(instances
-			(project "barebones"
-				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282/4592b564-4714-4f7f-a9af-f6be00056616"
-					(reference "#PWR0595")
 					(unit 1)
 				)
 			)
