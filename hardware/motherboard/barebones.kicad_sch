@@ -1514,6 +1514,52 @@
 		)
 	)
 	(sheet
+		(at 469.9 403.86)
+		(size 125.73 193.04)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "750a8053-7d82-4bd0-a71d-66001477e91b")
+		(property "Sheetname" "Macro Pad"
+			(at 469.9 403.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "barebones_ext.kicad_sch"
+			(at 469.9 597.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "barebones"
+				(path "/55e8bb80-206a-472b-ac89-6555b6c3d282"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 120.65 156.21)
 		(size 40.64 33.02)
 		(exclude_from_sim no)

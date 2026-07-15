@@ -1,0 +1,9 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "874381343") (type "KiCad") (uri "${KIPRJMOD}/battery.kicad_symdir/874381343.kicad_sym") (options "") (descr ""))
+	(lib (name "BQ40Z50RSMR-R2") (type "KiCad") (uri "${KIPRJMOD}/battery.kicad_symdir/BQ40Z50RSMR-R2.kicad_sym") (options "") (descr ""))
+	(lib (name "CSD18504Q5A") (type "KiCad") (uri "${KIPRJMOD}/battery.kicad_symdir/CSD18504Q5A.kicad_sym") (options "") (descr ""))
+	(lib (name "NXFT15XH103FA2B025") (type "KiCad") (uri "${KIPRJMOD}/battery.kicad_symdir/NXFT15XH103FA2B025.kicad_sym") (options "") (descr ""))
+	(lib (name "WSL25122L000FEA") (type "KiCad") (uri "${KIPRJMOD}/battery.kicad_symdir/WSL25122L000FEA.kicad_sym") (options "") (descr ""))
+	(lib (name "TPD4E004DRYR") (type "KiCad") (uri "${KIPRJMOD}/battery.kicad_symdir/TPD4E004DRYR.kicad_sym") (options "") (descr ""))
+)

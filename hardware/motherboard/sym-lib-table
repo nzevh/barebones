@@ -88,4 +88,8 @@
 	(lib (name "CMM-2718AT-3817NC-TR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/CMM-2718AT-3817NC-TR.kicad_sym") (options "") (descr ""))
 	(lib (name "STM32L433VCT6") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/STM32L433VCT6.kicad_sym") (options "") (descr ""))
 	(lib (name "EC05E1220401") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/EC05E1220401.kicad_sym") (options "") (descr ""))
+	(lib (name "FFC2B35-54-G_REVA2") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/FFC2B35-54-G_REVA2.kicad_sym") (options "") (descr ""))
+	(lib (name "F33X-1AAJ1-E8951") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/F33X-1AAJ1-E8951.kicad_sym") (options "") (descr ""))
+	(lib (name "STM32F411CEU6") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/STM32F411CEU6.kicad_sym") (options "") (descr ""))
+	(lib (name "FH12-30S-0.5SH_55_") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/FH12-30S-0.5SH_55_.kicad_sym") (options "") (descr ""))
 )

@@ -50,10 +50,10 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "border_display_style": 0,
+          "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_radius": 1.0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
@@ -110,9 +110,9 @@
         "missing_tuning_profile": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
-        "npth_inside_courtyard": "ignore",
+        "npth_inside_courtyard": "error",
         "padstack": "warning",
-        "pth_inside_courtyard": "ignore",
+        "pth_inside_courtyard": "error",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
@@ -153,7 +153,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.0,
+        "min_track_width": 0.1,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -449,7 +449,6 @@
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
-      "global_label_dangling": "warning",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
       "isolated_pin_label": "warning",
@@ -489,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "barebones.kicad_pro",
+    "filename": "battery.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -507,7 +506,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1,
+        "track_width": 0.2,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -523,14 +522,10 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "../../../../../../Desktop/",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -539,7 +534,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 1
+      "sort_order": 0
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -620,7 +615,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 2,
+      "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -641,61 +636,25 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
-    "space_save_all_events": true,
-    "spice_current_sheet_as_root": false,
-    "spice_external_command": "spice \"%I\"",
-    "spice_model_current_sheet_as_root": true,
-    "spice_save_all_currents": false,
-    "spice_save_all_dissipations": false,
-    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "barebones.kicad_sch",
-        "name": "barebones",
-        "uuid": "55e8bb80-206a-472b-ac89-6555b6c3d282"
+        "filename": "battery.kicad_sch",
+        "name": "Root",
+        "uuid": "505096a9-78a2-4c4d-be88-75f16c369539"
       }
     ],
-    "used_designators": "C561-562,#PWR370,#PWR379,#PWR381,#PWR384",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
-      "55e8bb80-206a-472b-ac89-6555b6c3d282",
-      "barebones"
-    ],
-    [
-      "4f9867cc-a4f6-4624-9d42-d554af76a1d4",
-      "High Speed IO"
-    ],
-    [
-      "9653571d-5cfe-4077-b5d8-4784f991e11c",
-      "Power and Ground"
-    ],
-    [
-      "10a7f033-abc9-48da-a7a0-2d26902a94e5",
-      "Memory and Control"
-    ],
-    [
-      "a6df9939-ea59-435b-85e2-5e8ba9902bb7",
-      "Memory Subsystem(LPDDR4x)"
-    ],
-    [
-      "93841f36-a7dd-4c37-a82e-2995d4aeb8c6",
-      "Embedded Controller and Internal Audio"
-    ],
-    [
-      "4592b564-4714-4f7f-a9af-f6be00056616",
-      "Peripheral IO Connectors"
-    ],
-    [
-      "750a8053-7d82-4bd0-a71d-66001477e91b",
-      "Macro Pad"
+      "505096a9-78a2-4c4d-be88-75f16c369539",
+      "Root"
     ]
   ],
   "text_variables": {},
