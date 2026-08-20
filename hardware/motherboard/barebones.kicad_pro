@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.2,
+          "width": 0.565
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +209,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +238,20 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.34,
+          "drill": 0.15
+        },
+        {
+          "diameter": 0.45,
+          "drill": 0.2
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -661,7 +682,7 @@
         "uuid": "55e8bb80-206a-472b-ac89-6555b6c3d282"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D18-21,#PWR3-4,#PWR11-12,#PWR17-18,#PWR20-22,#PWR27-28,#PWR35-36,#PWR44-46,#PWR51-52,#PWR80-83,#PWR88-89,#PWR94-95,#PWR100-106,#PWR109-118,#PWR121-124,#PWR126,#PWR129-130,#PWR135,#PWR141-142,#PWR144,#PWR152,#PWR154-160,#PWR162,#PWR165-166,#PWR168-173,#PWR175-176,#PWR178,#PWR180-181,#PWR183,#PWR203,#PWR208-210,#PWR212,#PWR214,#PWR216-217,#PWR221-222,#PWR224-225,#PWR228,#PWR230-231,#PWR233-236,#PWR240,#PWR242,#PWR255,#PWR258,#PWR261,#PWR270,#PWR274,#PWR282-288,#PWR291-293,#PWR296-305,#PWR308,#PWR310-311,#PWR313-314,#PWR316-318,#PWR323-328,#PWR338,#PWR340,#PWR343-349,#PWR351-355,#PWR360-362,#PWR380,#PWR383,#PWR391,#PWR395-396,#PWR398,#PWR400,#PWR411-412,#PWR414-416,#PWR428-429,#PWR433-434,#PWR436,#PWR440,#PWR443-444,#PWR449-454,#PWR458-460,#PWR464-472,#PWR475-476,#PWR480-481,#PWR488-489,#PWR493-499,#PWR501-502,#PWR505,#PWR515,#PWR517-518,#PWR520,#PWR524,#PWR528,#PWR530-533,#PWR540-541,#PWR543-555,#PWR559-561,#PWR565,#PWR572,#PWR594-595,#PWR605,#PWR612-614,#PWR620-622,#PWR624-625,#PWR627,#PWR635-646,#PWR649,#PWR651,#PWR653,#PWR655,#PWR657-658,#PWR660,#PWR662,#PWR664-677,S5-8,C3,C5-13,C16-31,C33-35,C38-43,C45-47,C49-50,C53-54,C60,C62,C64,C66,C71-72,C74-77,C79-87,C89-95,C101-102,C109-163,C165-166,C180-181,C184-185,C189-190,C195-196,C198,C220-226,C242,C251,C253-262,C264,C268-269,C280-283,C289-291,C295,C299,C303-316,C319-352,C358-359,C363-371,C374-380,C395,C401,C404-405,C410,C413-417,C420-421,C423,C425-431,C434-435,C437-439,C441,C443,C458-459,C462,C465,C467,C473,C475,C477-478,C480,C489,C492,C500,C516,C519-521,C526-527,C530,C539-540,C544-548,C550-554,C560,C569-576,C580-581,C585,C589-594,C597-601,C603-604,C606,C613-724,R8,R10,R16,R18-20,R23,R25,R30,R35,R45,R64,R69,R81,R116-117,R133,R135,R138-140,R142,R145,R148-158,R165-169,R172,R177-179,R182-183,R186-193,R195,R197,R199,R201,R203,R216-218,R222-225,R227-228,R230-236,R238-244,R251-254,R259-272,J4,J6-9,J13-17,J20,J23,U2-8,U10-11,U13,U15-17,U20-21,U23,U53,U68-70,U75,U84-86,VR1-2,L1-4,L6-8,L21-27,IC1,Q2,Q7-9,H1-6,FPC1,FL2-3,BT1",
     "variants": []
   },
   "sheets": [

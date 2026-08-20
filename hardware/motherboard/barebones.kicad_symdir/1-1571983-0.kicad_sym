@@ -1,0 +1,285 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "1-1571983-0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "S" (id 0) (at -5.08 22.86 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "1-1571983-0" (id 1) (at -5.08 -21.59 0)
+      (effects (font (size 1.27 1.27)) (justify top left))
+    )
+    (property "Footprint" "1-1571983-0:SW_1-1571983-0" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Comment" "1-1571983-0" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "TE Connectivity" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "2.31mm" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/1-1571983-0/TE+Connectivity+Alcoswitch+Switches/view-part/?ref=eda" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "C6" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/1-1571983-0/TE+Connectivity+Alcoswitch+Switches/view-part/?ref=snap" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "1-1571983-0" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "EU_RoHS_Compliance" "Compliant" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            GDH Series 8 Position SPST Recessed Rocker Sealed Low Profile SMT DIP Switch\n                        \n" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 16) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "TE Connectivity" (id 17) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "1-1571983-0_0_0"
+      (polyline
+        (pts (xy -2.54 17.78) (xy 2.794 19.9136)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 17.78) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 17.78) (xy 2.921 17.78)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 17.78) (xy -5.08 17.78)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 12.7) (xy 2.794 14.8336)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 12.7) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 12.7) (xy 2.921 12.7)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 12.7) (xy -5.08 12.7)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 7.62) (xy 2.794 9.7536)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 7.62) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 7.62) (xy 2.921 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 7.62) (xy -5.08 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 2.54) (xy 2.794 4.6736)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 2.54) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 2.54) (xy 2.921 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 2.54) (xy -5.08 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -2.54) (xy 2.794 -0.4064)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 -2.54) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 -2.54) (xy 2.921 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -2.54) (xy -5.08 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -7.62) (xy 2.794 -5.4864)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 -7.62) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 -7.62) (xy 2.921 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -7.62) (xy -5.08 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -12.7) (xy 2.794 -10.5664)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 -12.7) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 -12.7) (xy 2.921 -12.7)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -12.7) (xy -5.08 -12.7)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -17.78) (xy 2.794 -15.6464)) (stroke (width 0.1524))
+      )
+      (circle (center 2.54 -17.78) (radius 0.3302)
+        (stroke (width 0.1524)) (fill (type none))
+      )
+      (polyline
+        (pts (xy 5.08 -17.78) (xy 2.921 -17.78)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 -17.78) (xy -5.08 -17.78)) (stroke (width 0.1524))
+      )
+      (rectangle (start -5.08 -20.32) (end 5.08 21.59)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -10.16 17.78 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 17.78 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 12.7 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 12.7 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 7.62 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 7.62 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 2.54 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 -2.54 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -7.62 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 -7.62 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -12.7 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 -12.7 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -10.16 -17.78 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 -17.78 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
