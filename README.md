@@ -160,3 +160,7 @@ This hardware and associated project documentation are licensed under the **AGPL
 This repository is provided as-is for development and educational purposes. It is a work in progress, and the design may contain incomplete sections, missing files, and unverified assumptions. Always review the schematics, footprints, net classes, ERC results, and DRC results in KiCad before attempting fabrication or assembly.
 
 High-speed laptop motherboards are complex mixed-signal systems. Electrical, thermal, mechanical, and manufacturing validation should be performed before any production attempt.
+
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg)](https://boardrepo.com/b/09c58e96-9cba-4d1d-9b2a-2edc5ecb40b8)
+<!-- /boardrepo-badge:v1 -->
