@@ -2,7 +2,7 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "TPD6E05U06RVZR"
+	(symbol "TPD4E02B04DQAR"
 		(pin_names
 			(offset 1.016)
 		)
@@ -12,7 +12,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "D"
-			(at -7.6223 12.7038 0)
+			(at -10.16 8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22,18 +22,18 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "TPD6E05U06RVZR"
-			(at -8.128 -13.716 0)
+		(property "Value" "TPD4E02B04DQAR"
+			(at -10.16 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
+				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TPD6E05U06RVZR:SON50P135X350X55-14N"
+		(property "Footprint" "TPD4E02B04DQAR:DIO_TPD4E02B04DQAR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56,7 +56,7 @@
 				)
 			)
 		)
-		(property "Description" "6 channel 0.5-pF, 5.5-V, ±12-kV ESD protection diode for USB,  HDMI & High Speed Interfaces"
+		(property "Description" "Quad 0.25-pF, ±3.6-V, ±12-kV ESD protection diode for USB 3.0,  HDMI 2.0 & High Speed Signals"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80,7 +80,19 @@
 				(justify bottom)
 			)
 		)
-		(property "Package" "USON-14 Texas Instruments"
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.55 mm"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "USON-10 Texas Instruments"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -104,7 +116,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/TPD6E05U06RVZR/Texas+Instruments/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=eda"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116,7 +128,7 @@
 				(justify bottom)
 			)
 		)
-		(property "STANDARD" "IPC-7351B"
+		(property "STANDARD" "Manufacturer Recommendations"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128,7 +140,7 @@
 				(justify bottom)
 			)
 		)
-		(property "PARTREV" "L"
+		(property "PARTREV" "B"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -140,7 +152,7 @@
 				(justify bottom)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPD6E05U06RVZR/Texas+Instruments/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPD4E02B04DQAR/Texas+Instruments/view-part/?ref=snap"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -152,7 +164,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MP" "TPD6E05U06RVZR"
+		(property "MP" "TPD4E02B04DQAR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -188,10 +200,10 @@
 				(justify bottom)
 			)
 		)
-		(symbol "TPD6E05U06RVZR_0_0"
+		(symbol "TPD4E02B04DQAR_0_0"
 			(rectangle
-				(start -7.62 -12.7)
-				(end 7.62 12.7)
+				(start -10.16 -10.16)
+				(end 10.16 7.62)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -200,158 +212,10 @@
 					(type background)
 				)
 			)
-			(pin power_in line
-				(at 10.16 -10.16 180)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at 10.16 -5.08 180)
-				(length 2.54)
-				(name "D3N"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 10.16 -2.54 180)
-				(length 2.54)
-				(name "D3P"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 10.16 -10.16 180)
-				(length 2.54)
-				(hide yes)
-				(name "GND"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 10.16 1.27 180)
-				(length 2.54)
-				(name "D2N"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 10.16 3.81 180)
-				(length 2.54)
-				(name "D2P"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 10.16 7.62 180)
-				(length 2.54)
-				(name "D1N"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 10.16 10.16 180)
-				(length 2.54)
-				(name "D1P"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-		)
-		(symbol "TPD6E05U06RVZR_1_0"
-			(pin bidirectional line
-				(at 10.16 10.16 180)
-				(length 2.54)
-				(hide yes)
-				(name "D1P_1"
+				(at -15.24 5.08 0)
+				(length 5.08)
+				(name "IO1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -367,10 +231,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 7.62 180)
-				(length 2.54)
-				(hide yes)
-				(name "D1N_1"
+				(at -15.24 2.54 0)
+				(length 5.08)
+				(name "IO2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -385,11 +248,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 10.16 3.81 180)
-				(length 2.54)
-				(hide yes)
-				(name "D2P_1"
+			(pin power_in line
+				(at 15.24 -7.62 180)
+				(length 5.08)
+				(name "GND"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -405,10 +267,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 1.27 180)
-				(length 2.54)
-				(hide yes)
-				(name "D2N_1"
+				(at 15.24 5.08 180)
+				(length 5.08)
+				(name "IO3"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -424,10 +285,49 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 -2.54 180)
-				(length 2.54)
+				(at 15.24 2.54 180)
+				(length 5.08)
+				(name "IO4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 15.24 -7.62 180)
+				(length 5.08)
 				(hide yes)
-				(name "D3P_1"
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(symbol "TPD4E02B04DQAR_1_0"
+			(pin bidirectional line
+				(at 15.24 2.54 180)
+				(length 5.08)
+				(hide yes)
+				(name "104_1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -443,10 +343,10 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 -5.08 180)
-				(length 2.54)
+				(at 15.24 5.08 180)
+				(length 5.08)
 				(hide yes)
-				(name "D3N_1"
+				(name "IO3_1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -454,6 +354,44 @@
 					)
 				)
 				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -15.24 2.54 0)
+				(length 5.08)
+				(hide yes)
+				(name "IO2_1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -15.24 5.08 0)
+				(length 5.08)
+				(hide yes)
+				(name "IO1_1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
 					(effects
 						(font
 							(size 1.016 1.016)

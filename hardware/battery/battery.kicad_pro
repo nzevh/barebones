@@ -524,8 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../../../../../../Desktop/",
+      "plot": "outputs/gerber/",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""

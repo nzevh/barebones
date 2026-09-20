@@ -3,3 +3,9 @@
 (rule "Allow Via In Pad for U1 thermal pads only"
    (constraint disallow via)
    (condition "A.Type == 'pad' && A.Fabrication_Property == 'SMD' && !A.Parent == 'U1'"))
+
+(rule "Force_Laptop_100R_Differential_Profile"
+    (condition "A.NetName == 'DDR_CH1_CK_C' || A.NetName == 'DDR_CH1_CKB_C'")
+    (constraint track_width (min 0.10mm) (opt 0.10mm))
+    (constraint diff_pair_gap (min 0.18mm) (opt 0.18mm))
+)

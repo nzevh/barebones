@@ -2,7 +2,7 @@
 	(version 20251024)
 	(generator "kicad_symbol_editor")
 	(generator_version "10.0")
-	(symbol "12401610E4_2A"
+	(symbol "10137062-00021LF"
 		(pin_names
 			(offset 1.016)
 		)
@@ -12,7 +12,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "J"
-			(at -12.7 16.002 0)
+			(at -7.366 38.862 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22,8 +22,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "12401610E4_2A"
-			(at -12.7 -20.32 0)
+		(property "Value" "10137062-00021LF"
+			(at -7.62 -40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "12401610E4_2A:AMPHENOL_12401610E4_2A"
+		(property "Footprint" "10137062-00021LF:AMPHENOL_10137062-00021LF"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56,7 +56,7 @@
 				)
 			)
 		)
-		(property "Description" "USB3.2 GEN2, Type C, Top mount, CH 1.58mm, Dual Row SMT"
+		(property "Description" "USB3.1 GEN 1 Type C Connector, Input Output Connector, Receptacle Connector, Right Angle Top Mount SMT + DIP (Short body), 30μin. gold plating"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68,7 +68,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MF" "Amphenol ICC (Commercial Products)"
+		(property "MF" "Amphenol ICC (FCI)"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80,7 +80,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "3.43mm"
+		(property "MAXIMUM_PACKAGE_HEIGHT" "3.2 mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116,7 +116,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/12401610E4%232A/Amphenol/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/10137062-00021LF/Amphenol+FCI/view-part/?ref=eda"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -140,7 +140,7 @@
 				(justify bottom)
 			)
 		)
-		(property "PARTREV" "C"
+		(property "PARTREV" "B"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -152,7 +152,7 @@
 				(justify bottom)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/12401610E4%232A/Amphenol/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/10137062-00021LF/Amphenol+FCI/view-part/?ref=snap"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -164,7 +164,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MP" "12401610E4#2A"
+		(property "MP" "10137062-00021LF"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -200,10 +200,10 @@
 				(justify bottom)
 			)
 		)
-		(symbol "12401610E4_2A_0_0"
+		(symbol "10137062-00021LF_0_0"
 			(rectangle
-				(start -12.7 -17.78)
-				(end 12.7 15.24)
+				(start -7.62 -38.1)
+				(end 7.62 38.1)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -213,9 +213,9 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 -10.16 0)
+				(at -12.7 -33.02 0)
 				(length 5.08)
-				(name "GND_A"
+				(name "GND"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -230,10 +230,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -17.78 10.16 0)
+			(pin output line
+				(at -12.7 27.94 0)
 				(length 5.08)
-				(name "TX1+"
+				(name "SSTXP1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -248,10 +248,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -17.78 7.62 0)
+			(pin output line
+				(at -12.7 25.4 0)
 				(length 5.08)
-				(name "TX1-"
+				(name "SSTXN1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -266,26 +266,8 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at -17.78 11.43 0)
-				(length 5.08)
-				(name "VBUS_A"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "A4"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at -17.78 5.08 0)
+				(at -12.7 -2.54 0)
 				(length 5.08)
 				(name "CC1"
 					(effects
@@ -303,9 +285,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 2.54 0)
+				(at -12.7 -10.16 0)
 				(length 5.08)
-				(name "D1+"
+				(name "DP1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -321,9 +303,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 0 0)
+				(at -12.7 -12.7 0)
 				(length 5.08)
-				(name "D1-"
+				(name "DN1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -339,7 +321,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -2.54 0)
+				(at -12.7 -25.4 0)
 				(length 5.08)
 				(name "SBU1"
 					(effects
@@ -356,29 +338,10 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at -17.78 12.7 0)
+			(pin input line
+				(at -12.7 17.78 0)
 				(length 5.08)
-				(hide yes)
-				(name "VBUS_A"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "A9"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -17.78 -5.08 0)
-				(length 5.08)
-				(name "RX2-"
+				(name "SSRXN2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -393,10 +356,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -17.78 -7.62 0)
+			(pin input line
+				(at -12.7 20.32 0)
 				(length 5.08)
-				(name "RX2+"
+				(name "SSRXP2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -412,10 +375,10 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 -10.16 0)
+				(at -12.7 -33.02 0)
 				(length 5.08)
 				(hide yes)
-				(name "GND_A"
+				(name "GND"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -431,9 +394,10 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -10.16 180)
+				(at -12.7 -33.02 0)
 				(length 5.08)
-				(name "GND_B"
+				(hide yes)
+				(name "GND"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -448,10 +412,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 17.78 -7.62 180)
+			(pin output line
+				(at -12.7 5.08 0)
 				(length 5.08)
-				(name "TX2+"
+				(name "SSTXP2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -466,10 +430,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 17.78 -5.08 180)
+			(pin output line
+				(at -12.7 2.54 0)
 				(length 5.08)
-				(name "TX2-"
+				(name "SSTXN2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -484,26 +448,8 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 17.78 13.97 180)
-				(length 5.08)
-				(name "VBUS_B"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "B4"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at 17.78 -2.54 180)
+				(at -12.7 -5.08 0)
 				(length 5.08)
 				(name "CC2"
 					(effects
@@ -521,9 +467,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 0 180)
+				(at -12.7 -17.78 0)
 				(length 5.08)
-				(name "D2+"
+				(name "DP2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -539,9 +485,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 2.54 180)
+				(at -12.7 -20.32 0)
 				(length 5.08)
-				(name "D2-"
+				(name "DN2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -557,7 +503,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 5.08 180)
+				(at -12.7 -27.94 0)
 				(length 5.08)
 				(name "SBU2"
 					(effects
@@ -574,29 +520,10 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 17.78 12.7 180)
+			(pin input line
+				(at -12.7 10.16 0)
 				(length 5.08)
-				(hide yes)
-				(name "VBUS_B"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "B9"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 17.78 7.62 180)
-				(length 5.08)
-				(name "RX1-"
+				(name "SSRXN1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -611,10 +538,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 17.78 10.16 180)
+			(pin input line
+				(at -12.7 12.7 0)
 				(length 5.08)
-				(name "RX1+"
+				(name "SSRXP1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -630,10 +557,10 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -10.16 180)
+				(at -12.7 -33.02 0)
 				(length 5.08)
 				(hide yes)
-				(name "GND_B"
+				(name "GND"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -648,8 +575,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -17.78 -15.24 0)
+			(pin power_in line
+				(at -12.7 -35.56 0)
 				(length 5.08)
 				(name "SHIELD"
 					(effects
@@ -658,7 +585,7 @@
 						)
 					)
 				)
-				(number "SH1"
+				(number "S1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -666,8 +593,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -17.78 -15.24 0)
+			(pin power_in line
+				(at -12.7 -35.56 0)
 				(length 5.08)
 				(hide yes)
 				(name "SHIELD"
@@ -677,7 +604,7 @@
 						)
 					)
 				)
-				(number "SH2"
+				(number "S2"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -685,8 +612,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -17.78 -15.24 0)
+			(pin power_in line
+				(at -12.7 -35.56 0)
 				(length 5.08)
 				(hide yes)
 				(name "SHIELD"
@@ -696,7 +623,7 @@
 						)
 					)
 				)
-				(number "SH3"
+				(number "S3"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -704,8 +631,8 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -17.78 -15.24 0)
+			(pin power_in line
+				(at -12.7 -35.56 0)
 				(length 5.08)
 				(hide yes)
 				(name "SHIELD"
@@ -715,7 +642,83 @@
 						)
 					)
 				)
-				(number "SH4"
+				(number "S4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(symbol "10137062-00021LF_1_0"
+			(pin passive line
+				(at -12.7 35.56 0)
+				(length 5.08)
+				(name "VBUS_A"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "A4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 35.56 0)
+				(length 5.08)
+				(hide yes)
+				(name "VBUS_A"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "A9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 33.02 0)
+				(length 5.08)
+				(name "VBUS_B"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "B4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -12.7 33.02 0)
+				(length 5.08)
+				(hide yes)
+				(name "VBUS_B"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "B9"
 					(effects
 						(font
 							(size 1.016 1.016)
