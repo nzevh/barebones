@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/09c58e96-9cba-4d1d-9b2a-2edc5ecb40b8)
+<!-- /boardrepo-badge:v1 -->
+
 # barebones
 
 **barebones** is a work-in-progress open-source laptop motherboard project built around the Rockchip RK3588 platform. It is designed as a high-performance, modular laptop mainboard with dual DDR4 memory slots, hierarchical subsystem schematics, and a full laptop-oriented power, I/O, audio, and control architecture.
@@ -161,6 +165,3 @@ This repository is provided as-is for development and educational purposes. It i
 
 High-speed laptop motherboards are complex mixed-signal systems. Electrical, thermal, mechanical, and manufacturing validation should be performed before any production attempt.
 
-<!-- boardrepo-badge:v1 -->
-[![View on BoardRepo](https://boardrepo.com/badge/github.svg)](https://boardrepo.com/b/09c58e96-9cba-4d1d-9b2a-2edc5ecb40b8)
-<!-- /boardrepo-badge:v1 -->
