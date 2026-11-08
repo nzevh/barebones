@@ -31314,6 +31314,10 @@
 		(uuid "04d6261e-2bad-48c8-86b9-266f3d8b2b16")
 	)
 	(no_connect
+		(at 86.36 411.48)
+		(uuid "07dd862c-47e7-4d74-a882-4e02301a1f43")
+	)
+	(no_connect
 		(at 1013.46 718.82)
 		(uuid "0a42e281-49ea-40a6-a3b7-453df988661d")
 	)
@@ -31334,8 +31338,16 @@
 		(uuid "0e5c6fac-e371-4656-bb5b-cab195f23e85")
 	)
 	(no_connect
+		(at 1395.73 622.3)
+		(uuid "0fd0ad00-6c15-4377-b9cc-8d5e252cf1d6")
+	)
+	(no_connect
 		(at 849.63 234.95)
 		(uuid "1087abc4-a4bf-4d87-91d2-6f7052d68be0")
+	)
+	(no_connect
+		(at 86.36 383.54)
+		(uuid "108c9039-fccd-4435-ba77-e02381b3becc")
 	)
 	(no_connect
 		(at 816.61 356.87)
@@ -31466,8 +31478,16 @@
 		(uuid "29d3cea4-2f70-4fc1-84da-aae802c80661")
 	)
 	(no_connect
+		(at 1395.73 594.36)
+		(uuid "2aceaa99-bcf9-4735-b048-117537797e01")
+	)
+	(no_connect
 		(at 849.63 290.83)
 		(uuid "2ae0372d-5f68-4926-a67d-2a08bdc335dd")
+	)
+	(no_connect
+		(at 86.36 360.68)
+		(uuid "2bc11506-ae2d-4c6e-929c-62e557b2a489")
 	)
 	(no_connect
 		(at 816.61 234.95)
@@ -31538,12 +31558,24 @@
 		(uuid "44f0382d-af1a-4f25-8bfb-ad583547416e")
 	)
 	(no_connect
+		(at 86.36 406.4)
+		(uuid "4586a59e-22c1-4a99-bdd4-0830fbe2ea20")
+	)
+	(no_connect
 		(at 1277.62 727.71)
 		(uuid "4594a162-e2c3-42c3-95d6-4520f0ef4148")
 	)
 	(no_connect
+		(at 86.36 393.7)
+		(uuid "46101307-d054-4ed4-8385-8bc073115734")
+	)
+	(no_connect
 		(at 849.63 341.63)
 		(uuid "4610dde9-97bf-486f-9fdf-e906badadd60")
+	)
+	(no_connect
+		(at 86.36 403.86)
+		(uuid "4684f0a3-1b7c-413a-84df-6c505ee174a1")
 	)
 	(no_connect
 		(at 816.61 295.91)
@@ -31552,6 +31584,10 @@
 	(no_connect
 		(at 1197.61 114.3)
 		(uuid "479de65d-c832-4ef1-b798-caedd86c95ad")
+	)
+	(no_connect
+		(at 1395.73 584.2)
+		(uuid "49de777e-1a71-405e-a616-cb18d43fd350")
 	)
 	(no_connect
 		(at 849.63 280.67)
@@ -31602,6 +31638,10 @@
 		(uuid "51f335f1-1ea8-4108-91db-a6bd71c893a0")
 	)
 	(no_connect
+		(at 1395.73 566.42)
+		(uuid "52919b5a-bd69-4f7d-bd6a-7f241457d51a")
+	)
+	(no_connect
 		(at 849.63 351.79)
 		(uuid "5318e8ad-abef-4b6c-a6b8-5c16b5308616")
 	)
@@ -31614,8 +31654,16 @@
 		(uuid "553e5727-9feb-48e8-a5e9-d0101de5829b")
 	)
 	(no_connect
+		(at 1395.73 617.22)
+		(uuid "566ca6b3-234d-442c-acb3-5aaf02a5ca03")
+	)
+	(no_connect
 		(at 849.63 275.59)
 		(uuid "56929144-7119-43d1-8d5c-69e5ef26535a")
+	)
+	(no_connect
+		(at 1395.73 543.56)
+		(uuid "5acb5620-388f-43a2-92ad-9d0fcfbd3704")
 	)
 	(no_connect
 		(at 1277.62 717.55)
@@ -31678,6 +31726,10 @@
 		(uuid "68249ad7-dd86-41c5-b684-bf2ddf4da9d1")
 	)
 	(no_connect
+		(at 1395.73 619.76)
+		(uuid "69252ed6-a23a-4b06-a30d-1cb5fd54a78d")
+	)
+	(no_connect
 		(at 408.94 207.01)
 		(uuid "6a9f4983-fac9-4bdd-9714-935f8543360c")
 	)
@@ -31704,6 +31756,10 @@
 	(no_connect
 		(at 1428.75 85.09)
 		(uuid "6e80d96a-cb99-4676-8ab6-ec5fe2ee96f6")
+	)
+	(no_connect
+		(at 86.36 401.32)
+		(uuid "6e8e89f1-90fc-4dc8-a7b2-fa33394acd38")
 	)
 	(no_connect
 		(at 816.61 257.81)
@@ -31758,6 +31814,10 @@
 		(uuid "817c4a2d-dde0-4be6-a121-f19d90487de2")
 	)
 	(no_connect
+		(at 1395.73 579.12)
+		(uuid "81ab73e9-cfef-4cb7-acf1-29c2da869235")
+	)
+	(no_connect
 		(at 1153.16 709.93)
 		(uuid "821bb64a-283f-421e-8d16-2de62926e7cd")
 	)
@@ -31780,6 +31840,10 @@
 	(no_connect
 		(at 849.63 184.15)
 		(uuid "864ac6fc-6ed4-4c38-8af9-675bab7b8430")
+	)
+	(no_connect
+		(at 86.36 381)
+		(uuid "86a4b486-fc4e-46c8-a852-1dd14da1da96")
 	)
 	(no_connect
 		(at 187.96 702.31)
@@ -31878,6 +31942,10 @@
 		(uuid "99f7ec0e-e090-4cdd-90a6-3cebc1f64269")
 	)
 	(no_connect
+		(at 86.36 375.92)
+		(uuid "9c8a55a2-61eb-4765-959e-f0e8a3e5be3e")
+	)
+	(no_connect
 		(at 816.61 270.51)
 		(uuid "9d5d0185-3434-41ac-81de-be43281db22b")
 	)
@@ -31898,6 +31966,10 @@
 		(uuid "a194cb24-f550-4b6d-a6f7-8492732e62f1")
 	)
 	(no_connect
+		(at 1395.73 599.44)
+		(uuid "a1b5ae5a-8bda-422f-81cb-ef94ea0deff8")
+	)
+	(no_connect
 		(at 187.96 712.47)
 		(uuid "a5334260-be46-49c4-bb7d-5f01a4c5fc13")
 	)
@@ -31914,8 +31986,16 @@
 		(uuid "a76ab850-4ecb-4052-8e7f-6764a854c2eb")
 	)
 	(no_connect
+		(at 1395.73 586.74)
+		(uuid "a7cb7405-f752-4115-9e6d-ab619ea2b910")
+	)
+	(no_connect
 		(at 66.04 102.87)
 		(uuid "a8471f4f-7ed3-4ef5-84c4-8204320ffec8")
+	)
+	(no_connect
+		(at 86.36 378.46)
+		(uuid "a8d0d8dc-aedd-412c-85ae-dee96e68db4d")
 	)
 	(no_connect
 		(at 905.51 566.42)
@@ -31950,6 +32030,10 @@
 		(uuid "aeae6609-cbc2-4d40-b7fb-8a0f24c6951e")
 	)
 	(no_connect
+		(at 1395.73 591.82)
+		(uuid "afe81b36-63b8-455a-a7e5-e13382126255")
+	)
+	(no_connect
 		(at 1277.62 715.01)
 		(uuid "b05cd997-45c3-4183-817d-6846528d0fce")
 	)
@@ -31964,6 +32048,10 @@
 	(no_connect
 		(at 1153.16 715.01)
 		(uuid "b28842f9-299f-4727-95ed-223816d0d498")
+	)
+	(no_connect
+		(at 1395.73 614.68)
+		(uuid "b3a926fe-c9d5-4d38-8203-a9c3e3c12913")
 	)
 	(no_connect
 		(at 849.63 204.47)
@@ -31998,12 +32086,20 @@
 		(uuid "bccc8fbb-eb49-4d7b-a417-5186ac4fc5c8")
 	)
 	(no_connect
+		(at 1395.73 576.58)
+		(uuid "bdd76822-986b-4d69-b908-938c13827f68")
+	)
+	(no_connect
 		(at 1074.42 736.6)
 		(uuid "bdf3d2fa-d008-46cd-9105-26f2d848482d")
 	)
 	(no_connect
 		(at 849.63 212.09)
 		(uuid "be768885-5094-4617-b006-2eeb71cc344b")
+	)
+	(no_connect
+		(at 86.36 398.78)
+		(uuid "c0d9cc08-ea2d-4181-a18c-063adb1a33df")
 	)
 	(no_connect
 		(at 1074.42 744.22)
@@ -32016,6 +32112,10 @@
 	(no_connect
 		(at 300.99 412.75)
 		(uuid "c3aa391c-5240-4243-821e-ec238d784683")
+	)
+	(no_connect
+		(at 1395.73 601.98)
+		(uuid "c4bcfb53-0ae8-4567-8e44-85dc64e8d995")
 	)
 	(no_connect
 		(at 849.63 247.65)
@@ -32034,12 +32134,28 @@
 		(uuid "cc5ff4b7-fd85-4496-b4ec-866d41797acf")
 	)
 	(no_connect
+		(at 1395.73 627.38)
+		(uuid "ccf1b5cc-b3f3-49d4-8a7e-0acf6ea9b166")
+	)
+	(no_connect
+		(at 86.36 391.16)
+		(uuid "cde44c53-ae7f-418d-9577-9abcb8255925")
+	)
+	(no_connect
+		(at 86.36 386.08)
+		(uuid "d05b5227-92a4-4ad4-bf92-e68191e40d89")
+	)
+	(no_connect
 		(at 816.61 346.71)
 		(uuid "d06a8ccd-6437-4aee-b283-eddce87f064a")
 	)
 	(no_connect
 		(at 816.61 267.97)
 		(uuid "d09eeb31-9089-4b43-8a2b-77cd774abb26")
+	)
+	(no_connect
+		(at 86.36 416.56)
+		(uuid "d0e0e9e5-9edf-4bb1-b85a-013b75a8214e")
 	)
 	(no_connect
 		(at 1153.16 725.17)
@@ -32074,6 +32190,14 @@
 		(uuid "d9a0a1b6-b824-4ad9-a4fc-b3fb5943d14b")
 	)
 	(no_connect
+		(at 1395.73 546.1)
+		(uuid "db11444f-0a72-4a58-96fc-dc498dc7cb39")
+	)
+	(no_connect
+		(at 86.36 388.62)
+		(uuid "df5582f9-f705-437b-8a8b-ed73c7945eaf")
+	)
+	(no_connect
 		(at 1277.62 709.93)
 		(uuid "df93cbe5-a136-48aa-9cce-c8ac9cc1b63d")
 	)
@@ -32084,6 +32208,14 @@
 	(no_connect
 		(at 816.61 219.71)
 		(uuid "e0b64d38-a77b-4ef1-9ab3-58a95df68c67")
+	)
+	(no_connect
+		(at 86.36 373.38)
+		(uuid "e0fa12eb-7d8c-4b07-8bfa-f2c9a34c07dd")
+	)
+	(no_connect
+		(at 1395.73 561.34)
+		(uuid "e18afd50-31d2-48fb-8962-94548482f146")
 	)
 	(no_connect
 		(at 330.2 570.23)
@@ -32154,6 +32286,10 @@
 		(uuid "f6adb82f-57f8-4229-89ac-e18bdd4e19b1")
 	)
 	(no_connect
+		(at 1395.73 563.88)
+		(uuid "f815ea8f-c922-4fb7-a509-e50788a96d05")
+	)
+	(no_connect
 		(at 849.63 303.53)
 		(uuid "f8b15537-a69a-4832-899f-b86011398253")
 	)
@@ -32196,6 +32332,10 @@
 	(no_connect
 		(at 816.61 316.23)
 		(uuid "fed4fbfa-e9bb-4098-af6f-4698bd72fca0")
+	)
+	(no_connect
+		(at 1395.73 624.84)
+		(uuid "fee7f2ee-617e-4fb3-becb-78f864fca868")
 	)
 	(wire
 		(pts
@@ -60937,6 +61077,17 @@
 		)
 		(uuid "0f4f8193-db5b-4d67-b0f7-a6f1607b2452")
 	)
+	(hierarchical_label "DDR_CH0_CK_A_P"
+		(shape input)
+		(at 66.04 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0fb69bed-d738-4f61-9372-f0d59522521a")
+	)
 	(hierarchical_label "DDR_CH1_DQ13_C"
 		(shape bidirectional)
 		(at 408.94 179.07 180)
@@ -61014,17 +61165,6 @@
 		)
 		(uuid "15ae842d-cbfd-47ac-8b5d-cf8af69ae1c4")
 	)
-	(hierarchical_label "DDR_CH0_CK_B"
-		(shape output)
-		(at 162.56 107.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1650e596-a252-4ee0-a481-851f6402e125")
-	)
 	(hierarchical_label "PCIE30X4_WAKEn_M1_L"
 		(shape input)
 		(at 615.95 580.39 180)
@@ -61069,17 +61209,6 @@
 		)
 		(uuid "1b610e4e-c864-4416-ac0d-ca249e9deb93")
 	)
-	(hierarchical_label "DDR_CH0_CKB_B"
-		(shape output)
-		(at 162.56 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1d338eb3-ab2a-446f-bf4a-8cc374cc69c1")
-	)
 	(hierarchical_label "DDR_RESET"
 		(shape input)
 		(at 59.69 201.93 180)
@@ -61102,17 +61231,6 @@
 		)
 		(uuid "2141ba6d-2135-4666-81e3-c20745f062c0")
 	)
-	(hierarchical_label "USB20_HOST1_DM"
-		(shape input)
-		(at 993.14 556.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "21e12556-3497-4680-a2c0-131a70ce324e")
-	)
 	(hierarchical_label "USB_2_SBU1_DC"
 		(shape input)
 		(at 322.58 565.15 180)
@@ -61134,6 +61252,17 @@
 			(justify right)
 		)
 		(uuid "220480b6-050b-4c59-bb76-2e7d35397e9a")
+	)
+	(hierarchical_label "DDR_CH0_DQS0_B_N"
+		(shape bidirectional)
+		(at 162.56 181.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22f0fc61-f788-4fe8-a22d-fa6ab2d30c98")
 	)
 	(hierarchical_label "EDP_TX0_HDP"
 		(shape output)
@@ -61168,6 +61297,17 @@
 		)
 		(uuid "275327b0-0fb2-454a-8f03-3d971f23805f")
 	)
+	(hierarchical_label "DDR_CH0_DQS0_A_N"
+		(shape bidirectional)
+		(at 66.04 181.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "27672c83-9ef2-4af3-8019-52326382547c")
+	)
 	(hierarchical_label "DDR_CH0_DQ7_A"
 		(shape bidirectional)
 		(at 66.04 153.67 180)
@@ -61189,17 +61329,6 @@
 			(justify left)
 		)
 		(uuid "280dac25-c588-41cc-9352-7427df6af035")
-	)
-	(hierarchical_label "DDR_CH0_DQS0N_A"
-		(shape bidirectional)
-		(at 66.04 181.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "28310d22-dbe0-4ed7-97bc-02226c47e75e")
 	)
 	(hierarchical_label "DDR_CH1_LP4{slash}4X_CS0_C"
 		(shape output)
@@ -61266,6 +61395,17 @@
 			(justify left)
 		)
 		(uuid "2b83f3d5-2af0-43dd-a6c2-41512100a7f2")
+	)
+	(hierarchical_label "DDR_CH0_DQS1_A_P"
+		(shape bidirectional)
+		(at 66.04 184.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2bf0883d-3779-41bf-97cd-abf0438b26f2")
 	)
 	(hierarchical_label "DDR_CH1_LP4{slash}4X_CKE1{slash}LP5_CS1_C"
 		(shape output)
@@ -61497,17 +61637,6 @@
 			(justify right)
 		)
 		(uuid "4348e795-e7c9-480e-aff1-bcce53389d3e")
-	)
-	(hierarchical_label "DDR_CH0_DQS1N_B"
-		(shape bidirectional)
-		(at 162.56 186.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "45a76744-15fd-4f3e-87ad-c9b858d59389")
 	)
 	(hierarchical_label "DDR_CH1_A2_C"
 		(shape output)
@@ -61949,17 +62078,6 @@
 		)
 		(uuid "6bc3abf9-3a74-4a3d-a30c-205cf7dc9196")
 	)
-	(hierarchical_label "DDR_CH0_DQS1P_A"
-		(shape bidirectional)
-		(at 66.04 184.15 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6d58ce55-347a-416a-88b9-0629ba739d95")
-	)
 	(hierarchical_label "HDMI0_TX1P_PORT{slash}eDP0_TX_D1P"
 		(shape input)
 		(at 951.23 958.85 180)
@@ -61982,7 +62100,7 @@
 		)
 		(uuid "6ea2a262-fb09-474a-99a9-3b3ea79c5f1f")
 	)
-	(hierarchical_label "USB20_HOST0_DM"
+	(hierarchical_label "USB20_HOST0_DN"
 		(shape input)
 		(at 899.16 556.26 180)
 		(effects
@@ -62036,17 +62154,6 @@
 			(justify right)
 		)
 		(uuid "72328e72-9d13-4e36-8e6f-274889648419")
-	)
-	(hierarchical_label "DDR_CH0_DQS0N_B"
-		(shape bidirectional)
-		(at 162.56 181.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7412f03b-4050-41c3-8043-ddee01ce1151")
 	)
 	(hierarchical_label "HP_DETECT"
 		(shape output)
@@ -62433,17 +62540,6 @@
 		)
 		(uuid "9078a58c-84a6-4b1f-9247-e3952fa28961")
 	)
-	(hierarchical_label "DDR_CH0_DQS0P_A"
-		(shape bidirectional)
-		(at 66.04 179.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "94788e16-973e-4e10-9b6d-2efd6bff862a")
-	)
 	(hierarchical_label "I2S0_MLCK"
 		(shape input)
 		(at 1121.41 546.1 180)
@@ -62454,6 +62550,17 @@
 			(justify right)
 		)
 		(uuid "94888229-8382-4780-8f66-84b45dacc6ef")
+	)
+	(hierarchical_label "DDR_CH0_DQS0_B_P"
+		(shape bidirectional)
+		(at 162.56 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "951f07b3-c616-4093-92bd-5c9db258b1e1")
 	)
 	(hierarchical_label "PCIE30X2_WAKEn_M1"
 		(shape input)
@@ -62631,6 +62738,17 @@
 		)
 		(uuid "a184f3ed-64e5-4286-8993-5b743079589d")
 	)
+	(hierarchical_label "DDR_CH0_DQS1_B_P"
+		(shape bidirectional)
+		(at 162.56 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a188402f-dad7-4757-9458-f13ebc5b06b4")
+	)
 	(hierarchical_label "DDR_CH1_LP4{slash}4X_CKE1{slash}LP5_CS1_D"
 		(shape output)
 		(at 505.46 140.97 0)
@@ -62752,6 +62870,17 @@
 		)
 		(uuid "ab78754e-5fe4-41f6-8926-f74fcff934c2")
 	)
+	(hierarchical_label "DDR_CH0_CK_B_P"
+		(shape input)
+		(at 162.56 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ac091c17-be5c-4aea-9b1e-e8581a11a951")
+	)
 	(hierarchical_label "DDR_CH0_LP4{slash}4X_CS0_B"
 		(shape output)
 		(at 162.56 123.19 0)
@@ -62784,6 +62913,17 @@
 			(justify right)
 		)
 		(uuid "ad20e196-ad24-4430-b868-afd5c768a024")
+	)
+	(hierarchical_label "DDR_CH0_DQS1_B_N"
+		(shape bidirectional)
+		(at 162.56 186.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ad7679d2-1a52-4430-9cfe-423e91e0348f")
 	)
 	(hierarchical_label "I2C7_SCL_M0"
 		(shape input)
@@ -62828,17 +62968,6 @@
 			(justify right)
 		)
 		(uuid "ae6f8dd1-c19b-451f-931c-3cfc6f1eb15b")
-	)
-	(hierarchical_label "DDR_CH0_CKB_A"
-		(shape output)
-		(at 66.04 110.49 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "aed5793a-5629-465a-9756-0a1102747e04")
 	)
 	(hierarchical_label "DDR_CH1_CK_C_P"
 		(shape output)
@@ -63038,6 +63167,17 @@
 		)
 		(uuid "c1af7cb9-5214-4dea-a2b5-ac1c2ac763fa")
 	)
+	(hierarchical_label "USB20_HOST1_DN"
+		(shape input)
+		(at 993.14 556.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c31d6d19-fbf5-417e-989f-255f665716fa")
+	)
 	(hierarchical_label "SDMMC_CMD"
 		(shape input)
 		(at 934.72 107.95 180)
@@ -63070,17 +63210,6 @@
 			(justify left)
 		)
 		(uuid "c692e653-b324-45ec-bf1e-078ba31d67d8")
-	)
-	(hierarchical_label "DDR_CH0_DQS1N_A"
-		(shape bidirectional)
-		(at 66.04 186.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c80318bf-d94f-4aa1-9b21-3a7cc1aa6e81")
 	)
 	(hierarchical_label "SPI2_CLK_M2"
 		(shape input)
@@ -63225,6 +63354,17 @@
 		)
 		(uuid "cd0e29ca-7ec7-433c-abff-1c652e13b397")
 	)
+	(hierarchical_label "DDR_CH0_CK_B_N"
+		(shape input)
+		(at 162.56 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd146d4b-842d-4764-b92e-981e980f9cbc")
+	)
 	(hierarchical_label "I2C4_SCL_M1"
 		(shape input)
 		(at 58.42 363.22 180)
@@ -63236,17 +63376,6 @@
 		)
 		(uuid "cdd3b4e6-b111-4454-9abe-703d03ed373e")
 	)
-	(hierarchical_label "DDR_CH0_DQS1P_B"
-		(shape bidirectional)
-		(at 162.56 184.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ce6ee124-6a32-48be-90a5-7becf34ea881")
-	)
 	(hierarchical_label "HDMI1_TX1P_PORT{slash}eDP1_TX_D1P"
 		(shape input)
 		(at 1060.45 958.85 0)
@@ -63257,6 +63386,17 @@
 			(justify left)
 		)
 		(uuid "d055d71f-8bb9-4fe8-b9e9-d1797a79dfe0")
+	)
+	(hierarchical_label "DDR_CH0_DQS0_A_P"
+		(shape bidirectional)
+		(at 66.04 179.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d11042d4-9c59-427b-a6e6-322b900b89a5")
 	)
 	(hierarchical_label "DDR_CH0_A3_B"
 		(shape output)
@@ -63301,6 +63441,17 @@
 			(justify right)
 		)
 		(uuid "d3d9c202-21bb-4f29-a741-750bccbca932")
+	)
+	(hierarchical_label "DDR_CH0_CK_A_N"
+		(shape input)
+		(at 66.04 110.49 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d3e779f4-5a02-4f38-b8fb-a65775c9e1b4")
 	)
 	(hierarchical_label "DDR_CH0_DQ3_A"
 		(shape bidirectional)
@@ -63610,6 +63761,17 @@
 		)
 		(uuid "e4fa6def-af4e-4db8-b099-fb61adaede5b")
 	)
+	(hierarchical_label "DDR_CH0_DQS1_A_N"
+		(shape bidirectional)
+		(at 66.04 186.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e55d2cf5-6f10-4fd7-8e0f-80b0e99ce7f1")
+	)
 	(hierarchical_label "DDR_CH0_DQ10_A"
 		(shape bidirectional)
 		(at 66.04 161.29 180)
@@ -63786,17 +63948,6 @@
 		)
 		(uuid "f276405b-11b5-4926-994e-f743b1664062")
 	)
-	(hierarchical_label "DDR_CH0_DQS0P_B"
-		(shape bidirectional)
-		(at 162.56 179.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f28b3eec-d88c-4bb0-8d9d-6574e76afa77")
-	)
 	(hierarchical_label "HDMI1_TX3P_PORT{slash}eDP1_TX_D3P"
 		(shape input)
 		(at 1060.45 969.01 0)
@@ -63917,17 +64068,6 @@
 			(justify right)
 		)
 		(uuid "fdb73d17-6d2f-4dd3-a4f8-1fea12f356cb")
-	)
-	(hierarchical_label "DDR_CH0_CK_A"
-		(shape output)
-		(at 66.04 107.95 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fdb9002e-7d66-4c15-9f5f-55ebe51803b7")
 	)
 	(hierarchical_label "DDR_CH0_A0_B"
 		(shape output)

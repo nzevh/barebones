@@ -14396,6 +14396,17 @@
 		)
 		(uuid "ffc8be7d-b864-49b1-94ba-52549e00a06f")
 	)
+	(hierarchical_label "DDR_CH0_DQS1_A_P"
+		(shape bidirectional)
+		(at 100.33 294.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0042e1b5-7784-45f4-b9eb-d46d6232e306")
+	)
 	(hierarchical_label "DDR_CH1_DQ11_C"
 		(shape bidirectional)
 		(at 353.06 246.38 180)
@@ -14406,6 +14417,17 @@
 			(justify right)
 		)
 		(uuid "00c86f3d-24a7-4b6c-a131-a221f3d86439")
+	)
+	(hierarchical_label "DDR_CH0_DQS1_A_N"
+		(shape bidirectional)
+		(at 100.33 289.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "02afbfd9-3ded-4e70-aa81-87d23516ed73")
 	)
 	(hierarchical_label "DDR_CH1_A2_D"
 		(shape input)
@@ -14484,6 +14506,17 @@
 		)
 		(uuid "094cb929-8206-4fc2-b8a9-c84e206e237c")
 	)
+	(hierarchical_label "DDR_CH0_CK_A_P"
+		(shape input)
+		(at 101.6 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "09cd1080-a234-469e-a708-29c076374945")
+	)
 	(hierarchical_label "DDR_CH1_DQ14_D"
 		(shape bidirectional)
 		(at 353.06 264.16 180)
@@ -14516,17 +14549,6 @@
 			(justify right)
 		)
 		(uuid "0f5dc7d9-b45f-45a3-ae19-c09df061ae5c")
-	)
-	(hierarchical_label "DDR_CH0_DQS0N_B"
-		(shape bidirectional)
-		(at 100.33 281.94 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0f79a683-f0d4-4339-9a82-d876dd51019d")
 	)
 	(hierarchical_label "DDR_CH0_DM1_A"
 		(shape input)
@@ -14594,28 +14616,6 @@
 		)
 		(uuid "18407fa2-ed36-47db-b263-1cbd9d2915f8")
 	)
-	(hierarchical_label "DDR_CH0_CK_A"
-		(shape output)
-		(at 101.6 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "19d3cb35-8fd7-4806-aaef-3d8954e1cc12")
-	)
-	(hierarchical_label "DDR_CH0_CK_B"
-		(shape output)
-		(at 101.6 121.92 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1e6c36a1-b550-48e2-8547-67c341b1128d")
-	)
 	(hierarchical_label "DDR_CH0_DQ11_B"
 		(shape bidirectional)
 		(at 100.33 256.54 180)
@@ -14681,17 +14681,6 @@
 			(justify right)
 		)
 		(uuid "2823ca17-687e-428a-9677-19d299f1eac6")
-	)
-	(hierarchical_label "DDR_CH0_CKB_B"
-		(shape output)
-		(at 101.6 116.84 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "28ba5bff-7726-4ed1-8736-cf722f00e6bb")
 	)
 	(hierarchical_label "DDR_CH0_DQ2_A"
 		(shape bidirectional)
@@ -14780,6 +14769,28 @@
 			(justify right)
 		)
 		(uuid "368dd9b4-37ad-43f0-ba25-878357903c35")
+	)
+	(hierarchical_label "DDR_CH0_CK_A_N"
+		(shape input)
+		(at 101.6 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "37ba3ded-6689-4cc2-ac00-337e5aeebbde")
+	)
+	(hierarchical_label "DDR_CH0_DQS0_A_N"
+		(shape bidirectional)
+		(at 100.33 279.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "37e76510-f88e-4859-a475-f6ded4bd6b3b")
 	)
 	(hierarchical_label "DDR_CH0_LP4{slash}4X_CS1_A"
 		(shape input)
@@ -14924,6 +14935,17 @@
 		)
 		(uuid "498e6555-8ad6-4a89-9560-28b78f23e306")
 	)
+	(hierarchical_label "DDR_CH0_DQS1_B_N"
+		(shape bidirectional)
+		(at 100.33 292.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4cb7863c-47b1-43b5-9b0d-9dce45f8e041")
+	)
 	(hierarchical_label "DDR_CH0_DQ14_A"
 		(shape bidirectional)
 		(at 100.33 269.24 180)
@@ -15023,6 +15045,17 @@
 		)
 		(uuid "626dc6da-dcd2-4b78-9559-d82439b3a152")
 	)
+	(hierarchical_label "DDR_CH0_CK_B_N"
+		(shape input)
+		(at 101.6 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "629dcac6-3202-47f3-a741-cc0af517104c")
+	)
 	(hierarchical_label "DDR_CH0_DQ8_A"
 		(shape bidirectional)
 		(at 100.33 238.76 180)
@@ -15045,17 +15078,6 @@
 		)
 		(uuid "64df760f-161f-4947-ad08-9e4fd32e227f")
 	)
-	(hierarchical_label "DDR_CH0_DQS1P_B"
-		(shape bidirectional)
-		(at 100.33 297.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "666b302f-6ed7-448d-94ab-b709d873f8e8")
-	)
 	(hierarchical_label "DDR_CH1_DM0_C"
 		(shape input)
 		(at 354.33 86.36 180)
@@ -15066,6 +15088,17 @@
 			(justify right)
 		)
 		(uuid "6737c8c0-92d6-402a-b25c-a46364febefb")
+	)
+	(hierarchical_label "DDR_CH0_DQS0_B_P"
+		(shape bidirectional)
+		(at 100.33 287.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "679349e3-7fd3-4902-bd01-67352474db69")
 	)
 	(hierarchical_label "DDR_CH1_A5_C"
 		(shape input)
@@ -15132,17 +15165,6 @@
 			(justify right)
 		)
 		(uuid "703ce375-e17c-4394-8b7a-d206e46d484b")
-	)
-	(hierarchical_label "DDR_CH0_DQS0P_A"
-		(shape bidirectional)
-		(at 100.33 284.48 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7175fe18-cd4a-4845-9b95-addf2a04c016")
 	)
 	(hierarchical_label "DDR_CH1_A2_C"
 		(shape input)
@@ -15408,6 +15430,17 @@
 		)
 		(uuid "a76fc46f-5ab8-437a-8bd0-7db2d63033fb")
 	)
+	(hierarchical_label "DDR_CH0_DQS1_B_P"
+		(shape bidirectional)
+		(at 100.33 297.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a9affab3-a36e-4b02-b8de-cdcff3029144")
+	)
 	(hierarchical_label "DDR_CH1_DM0_D"
 		(shape input)
 		(at 354.33 88.9 180)
@@ -15429,6 +15462,17 @@
 			(justify right)
 		)
 		(uuid "ac911b69-d06e-4aa3-b0fe-3a0a7b99fb22")
+	)
+	(hierarchical_label "DDR_CH0_DQS0_A_P"
+		(shape bidirectional)
+		(at 100.33 284.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b3e67839-0517-419a-a6fd-06fadf26b7aa")
 	)
 	(hierarchical_label "DDR_CH1_DQS1_C_N"
 		(shape bidirectional)
@@ -15485,17 +15529,6 @@
 		)
 		(uuid "bea6afb9-4955-4c31-bd5f-5bf81c33acb0")
 	)
-	(hierarchical_label "DDR_CH0_DQS0P_B"
-		(shape bidirectional)
-		(at 100.33 287.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bf5d7d17-f5ed-4b3a-b203-3389b1b74528")
-	)
 	(hierarchical_label "DDR_CH1_DQS0_C_N"
 		(shape bidirectional)
 		(at 353.06 271.78 180)
@@ -15529,16 +15562,16 @@
 		)
 		(uuid "c4c3dc9f-e9c5-426d-8508-2e8f0628e4b1")
 	)
-	(hierarchical_label "DDR_CH0_DQS0N_A"
+	(hierarchical_label "DDR_CH0_DQS0_B_N"
 		(shape bidirectional)
-		(at 100.33 279.4 180)
+		(at 100.33 281.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "c81c5164-ad1d-4ced-b1c2-f750d56dac6d")
+		(uuid "cb3ffc8b-4da7-4069-b6ca-61d68efaac37")
 	)
 	(hierarchical_label "DDR_RESET"
 		(shape input)
@@ -15716,17 +15749,6 @@
 		)
 		(uuid "e68cd438-80e4-438d-9025-8f95c6436134")
 	)
-	(hierarchical_label "DDR_CH0_DQS1P_A"
-		(shape bidirectional)
-		(at 100.33 294.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e921ea26-18f3-420e-b435-944661840623")
-	)
 	(hierarchical_label "DDR_CH1_DQ4_D"
 		(shape bidirectional)
 		(at 353.06 213.36 180)
@@ -15781,17 +15803,6 @@
 			(justify right)
 		)
 		(uuid "ee3d7da3-e2fe-41c5-b1ae-3f00ed825e89")
-	)
-	(hierarchical_label "DDR_CH0_DQS1N_B"
-		(shape bidirectional)
-		(at 100.33 292.1 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ee96844b-3980-414f-b2f8-7bc8578489cf")
 	)
 	(hierarchical_label "DDR_CH0_A3_B"
 		(shape input)
@@ -15859,17 +15870,6 @@
 		)
 		(uuid "f8e8a614-c84f-4218-9802-3ac97c61a57e")
 	)
-	(hierarchical_label "DDR_CH0_CKB_A"
-		(shape output)
-		(at 101.6 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f95ae3bb-1c6e-4b46-b362-78b92adc1f37")
-	)
 	(hierarchical_label "DDR_CH1_DQ15_D"
 		(shape bidirectional)
 		(at 353.06 269.24 180)
@@ -15892,16 +15892,16 @@
 		)
 		(uuid "fd4e84d3-7630-4222-8bf9-accc798165dc")
 	)
-	(hierarchical_label "DDR_CH0_DQS1N_A"
-		(shape bidirectional)
-		(at 100.33 289.56 180)
+	(hierarchical_label "DDR_CH0_CK_B_P"
+		(shape input)
+		(at 101.6 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "fef0d445-6264-4ff3-b137-06d84517585e")
+		(uuid "fe9b2997-8aec-46ae-8e25-a739345c7ded")
 	)
 	(hierarchical_label "DDR_CH1_CK_C_P"
 		(shape input)

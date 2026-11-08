@@ -6835,7 +6835,6 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 347.98 45.72 90)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6845,7 +6844,7 @@
 		(dnp no)
 		(uuid "4128f019-2704-499f-9874-34457a9d39c6")
 		(property "Reference" "R136"
-			(at 351.282 48.768 90)
+			(at 351.282 42.672 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6856,7 +6855,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 351.282 51.308 90)
+			(at 351.282 40.132 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6866,8 +6865,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 347.98 43.942 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 347.98 47.498 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

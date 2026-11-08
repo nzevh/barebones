@@ -88,4 +88,8 @@
 	(lib (name "TPS56C215RNNR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/TPS56C215RNNR.kicad_sym") (options "") (descr ""))
 	(lib (name "XFL4015-471MEC") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/XFL4015-471MEC.kicad_sym") (options "") (descr ""))
 	(lib (name "XAL7030-152MEC") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/XAL7030-152MEC.kicad_sym") (options "") (descr ""))
+	(lib (name "TS3A227ERVAR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/TS3A227ERVAR.kicad_sym") (options "") (descr ""))
+	(lib (name "STM32H743VIH6") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/STM32H743VIH6.kicad_sym") (options "") (descr ""))
+	(lib (name "STM32H743VIT6") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/STM32H743VIT6.kicad_sym") (options "") (descr ""))
+	(lib (name "TPA3138D2PWPR") (type "KiCad") (uri "${KIPRJMOD}/barebones.kicad_symdir/TPA3138D2PWPR.kicad_sym") (options "") (descr ""))
 )
